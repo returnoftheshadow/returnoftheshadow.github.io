@@ -1,3 +1,0 @@
-
-# Return of the Shadow
-
