@@ -1,5 +1,19 @@
 .jumbotron{
-  background-image: url('banner_art.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/top_banner.jpg');
+  color: #fff;
+  background-size: cover;
+  background-position: center;
+  height: 70vh;
+  top: 50%;
+  left: 50%;
+}
+
+.jumbotron h1 {
+  padding-top: 50px;
+  margin-top: 0;
+  margin-bottom: 20px;
+  letter-spacing: 1px;
+  margin: 0.67em 0;
 }
 
 .navbar-default {
@@ -65,4 +79,8 @@
     .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
           color: #333;
     }
+}
+
+.footer-container {
+	padding-top: 40px;
 }
