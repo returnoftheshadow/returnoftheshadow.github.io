@@ -18,7 +18,7 @@
 
 .navbar-default {
   background-color: white;
-  border-color: orange;
+  border-color: #3498db;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus{
@@ -83,4 +83,40 @@
 
 .footer-container {
 	padding-top: 40px;
+}
+
+.races {
+	background-color: #F8F8FF;
+}
+
+.title {
+	margin-top: 0;
+	padding-top: 15px;
+	margin-bottom: 20px;
+	letter-spacing: 1px;
+	font-size: 52px;
+	text-align: center;
+}
+
+.title::after {
+	content: '';
+	height: 1px;
+	background: #3498db;
+	display: block;
+	width: 30%;
+	margin: 0 auto;
+}
+.btn.btn-default  {
+	background-color: #3498db;
+	font-weight: 400;
+	color: white;
+}
+
+.races img {	
+	width: 200px;
+	height: 300px;
+}
+
+.races h2 {
+	text-align: center;
 }
