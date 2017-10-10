@@ -7,7 +7,15 @@
   top: 50%;
   left: 50%;
 }
-
+.jumbotron.connect {
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('img/lotrwarbanner.jpg');
+    color: #fff;
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+    top: 50%;
+    left: 50%;
+}
 .jumbotron h1 {
   padding-top: 50px;
   margin-top: 0;
@@ -85,7 +93,7 @@
 	padding-top: 40px;
 }
 
-.races {
+.offwhite {
 	background-color: #F8F8FF;
 }
 
@@ -112,11 +120,29 @@
 	color: white;
 }
 
-.races img {	
+.races {
+    padding-bottom: 20px;
+}
+
+.races img {
+    
 	width: 200px;
 	height: 300px;
+    padding-left: 1px;
+    margin-left: 1px;
+    
 }
 
 .races h2 {
 	text-align: center;
+}
+
+.uruk-hais
+{
+    min-height: 300px;
+    width: auto;
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/race_urukhai.jpg);
+    color: #fff;
+    background-size: cover;
+    background-position: center;
 }
