@@ -32,6 +32,10 @@
       "path---news-1512-c06d27555591263b0568.js",
       "path---news-1512-c06d27555591263b0568.js.map"
     ],
+    "component---src-pages-races-hobbits-js": [
+      "component---src-pages-races-hobbits-js-0c4ec72d11e20b746485.js",
+      "component---src-pages-races-hobbits-js-0c4ec72d11e20b746485.js.map"
+    ],
     "path---news-1334": [
       "path---news-1334-c6a868ffc437de6c531f.js",
       "path---news-1334-c6a868ffc437de6c531f.js.map"
@@ -61,8 +65,8 @@
       "path---news-1632-3b1b8e9d6f510ca01450.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-1af8b774e5af45ee5f9b.js",
-      "component---src-pages-index-js-1af8b774e5af45ee5f9b.js.map"
+      "component---src-pages-index-js-569a7c74774e2e7e8585.js",
+      "component---src-pages-index-js-569a7c74774e2e7e8585.js.map"
     ],
     "path---news-1400": [
       "path---news-1400-90baf026f95197e719cb.js",
@@ -356,6 +360,10 @@
       "path---news-1366-caa7a56371e96a849ab0.js",
       "path---news-1366-caa7a56371e96a849ab0.js.map"
     ],
+    "path---races-hobbits": [
+      "path---races-hobbits-a0e39f21c11f6a62c5ab.js",
+      "path---races-hobbits-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---news-1547": [
       "path---news-1547-00d02715690bc0739a31.js",
       "path---news-1547-00d02715690bc0739a31.js.map"
@@ -409,9 +417,9 @@
       "path---news-1441-c4d01a6212991a7dfad4.js.map"
     ],
     "app": [
-      "app-95ef9c8a9501e233ffca.js",
+      "app-098f573ea197814d995e.js",
       "build-js-styles.css",
-      "app-95ef9c8a9501e233ffca.js.map",
+      "app-098f573ea197814d995e.js.map",
       "build-js-styles.css.map"
     ],
     "path---news-1579": [

@@ -1,2 +1,2 @@
-webpackJsonp([0xe9d09adbb296],{183:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var d=u(6),l=n(d);t.default=function(){return l.default.createElement("div",null)},e.exports=t.default}});
+webpackJsonp([0xe9d09adbb296],{184:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var d=u(4),l=n(d);t.default=function(){return l.default.createElement("div",null)},e.exports=t.default}});
 //# sourceMappingURL=component---src-pages-quests-js-2f5a51690b0693b9c8c7.js.map
