@@ -1,0 +1,2 @@
+webpackJsonp([0x78e28e76ba7c],{481:function(e,t){e.exports={data:{markdownRemark:{html:"<blockquote>\n<p>Message 1607 : Thu Apr 29 (Blent)      :: Lhuth Quest Change</p>\n</blockquote>\n<p>One of the Lhuth quests involving Karvok is no longer restricted to\nonce a day. Enjoy.</p>\n<p>As of next reboot.</p>\n<p>Blent</p>",frontmatter:{title:"News 1607: Lhuth Quest Change",date:"October 09, 2017",author:null,desc:null}}},pathContext:{slug:"/news/1607"}}}});
+//# sourceMappingURL=path---news-1607-26e345ce46d971430f69.js.map

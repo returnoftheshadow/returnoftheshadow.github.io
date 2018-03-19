@@ -1,0 +1,2 @@
+webpackJsonp([3814262367662],{505:function(t,a){t.exports={data:{markdownRemark:{html:"<p>As of today, mount-killing is again legal in PK. In the future, we plan to\nadd a feature that makes it easier for characters that have previously\nobtained quest mounts to obtain them again.</p>\n<p>The Management</p>",frontmatter:{title:"News 1651",date:"October 09, 2017",author:"Drelidan",desc:"PK Rules Update"}}},pathContext:{slug:"/news/1651"}}}});
+//# sourceMappingURL=path---news-1651-8e4009a6f799af86085b.js.map

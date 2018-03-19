@@ -1,0 +1,2 @@
+webpackJsonp([0xd3ce96d229a2],{465:function(e,n){e.exports={data:{markdownRemark:{html:"<blockquote>\n<p>Message 1579 : Wed Jan 28 (Azriya)     :: More Tweaks</p>\n</blockquote>\n<p>Lord Gaard has been adjusted.  An old quest was removed and a\nsecond old quest reinstated.</p>\n<p>Webspinners will not open doors for players any longer.</p>\n<p>Effective next reboot.\nA</p>",frontmatter:{title:"News 1579: More Tweaks",date:"October 09, 2017",author:null,desc:null}}},pathContext:{slug:"/news/1579"}}}});
+//# sourceMappingURL=path---news-1579-82a15d746a2cff43a33d.js.map
