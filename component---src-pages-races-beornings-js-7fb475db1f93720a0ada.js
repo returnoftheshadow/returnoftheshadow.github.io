@@ -1,0 +1,2 @@
+webpackJsonp([0xe4fdadf3e383],{185:function(e,t,l){"use strict";function a(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=l(4),u=a(n);t.default=function(){return u.default.createElement("div",null,u.default.createElement("div",{className:"container"},u.default.createElement("div",{className:"row"},u.default.createElement("div",{className:"col-lg-12"},u.default.createElement("h1",null,"Beornings")))))},e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-races-beornings-js-7fb475db1f93720a0ada.js.map

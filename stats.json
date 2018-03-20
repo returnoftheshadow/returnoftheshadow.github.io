@@ -24,6 +24,14 @@
       "path---news-1527-2a9e0290ec497fce8260.js",
       "path---news-1527-2a9e0290ec497fce8260.js.map"
     ],
+    "component---src-pages-races-haradrims-js": [
+      "component---src-pages-races-haradrims-js-2d667525c5c0bda2d907.js",
+      "component---src-pages-races-haradrims-js-2d667525c5c0bda2d907.js.map"
+    ],
+    "path---races-uruk-hais": [
+      "path---races-uruk-hais-a0e39f21c11f6a62c5ab.js",
+      "path---races-uruk-hais-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---news-1471": [
       "path---news-1471-8b931b13bb1051cb1070.js",
       "path---news-1471-8b931b13bb1051cb1070.js.map"
@@ -43,6 +51,10 @@
     "path---news-1663": [
       "path---news-1663-100b6e96567ee55d88ef.js",
       "path---news-1663-100b6e96567ee55d88ef.js.map"
+    ],
+    "component---src-pages-races-humans-js": [
+      "component---src-pages-races-humans-js-e56181f08a34148fd974.js",
+      "component---src-pages-races-humans-js-e56181f08a34148fd974.js.map"
     ],
     "path---news-1423": [
       "path---news-1423-5b2f2494b9c5be3d9408.js",
@@ -64,9 +76,13 @@
       "path---news-1632-3b1b8e9d6f510ca01450.js",
       "path---news-1632-3b1b8e9d6f510ca01450.js.map"
     ],
+    "component---src-pages-races-uruk-lhuths-js": [
+      "component---src-pages-races-uruk-lhuths-js-9c7d9b3b9cce64879220.js",
+      "component---src-pages-races-uruk-lhuths-js-9c7d9b3b9cce64879220.js.map"
+    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-569a7c74774e2e7e8585.js",
-      "component---src-pages-index-js-569a7c74774e2e7e8585.js.map"
+      "component---src-pages-index-js-705636bc548241136d10.js",
+      "component---src-pages-index-js-705636bc548241136d10.js.map"
     ],
     "path---news-1400": [
       "path---news-1400-90baf026f95197e719cb.js",
@@ -75,6 +91,10 @@
     "path---news-1664": [
       "path---news-1664-09c503c7d6c07286a659.js",
       "path---news-1664-09c503c7d6c07286a659.js.map"
+    ],
+    "component---src-pages-races-olog-hais-js": [
+      "component---src-pages-races-olog-hais-js-16b300f7ad78946161b9.js",
+      "component---src-pages-races-olog-hais-js-16b300f7ad78946161b9.js.map"
     ],
     "component---src-pages-rcd-js": [
       "component---src-pages-rcd-js-b44b5c120acaf9e036fb.js",
@@ -112,6 +132,10 @@
       "path---news-1466-936e636803d619a898cc.js",
       "path---news-1466-936e636803d619a898cc.js.map"
     ],
+    "path---races-beornings": [
+      "path---races-beornings-a0e39f21c11f6a62c5ab.js",
+      "path---races-beornings-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---": [
       "path----1dc8457d33b8653da714.js",
       "path----1dc8457d33b8653da714.js.map"
@@ -129,8 +153,8 @@
       "path---news-1649-6956ce3112c4ef112c3d.js.map"
     ],
     "component---src-pages-news-js": [
-      "component---src-pages-news-js-f4fa6acd075e20982a10.js",
-      "component---src-pages-news-js-f4fa6acd075e20982a10.js.map"
+      "component---src-pages-news-js-feb484b4c25fa6c11875.js",
+      "component---src-pages-news-js-feb484b4c25fa6c11875.js.map"
     ],
     "path---news-1472": [
       "path---news-1472-1c2e7932b0589d78f611.js",
@@ -144,9 +168,17 @@
       "path---news-1613-fdc2bb6f48b0b39ac9b9.js",
       "path---news-1613-fdc2bb6f48b0b39ac9b9.js.map"
     ],
+    "path---races-uruk-lhuths": [
+      "path---races-uruk-lhuths-a0e39f21c11f6a62c5ab.js",
+      "path---races-uruk-lhuths-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---news-1492": [
       "path---news-1492-c99edee3ab9fef53508d.js",
       "path---news-1492-c99edee3ab9fef53508d.js.map"
+    ],
+    "component---src-pages-races-uruk-hais-js": [
+      "component---src-pages-races-uruk-hais-js-ace74ee6d113b73548e5.js",
+      "component---src-pages-races-uruk-hais-js-ace74ee6d113b73548e5.js.map"
     ],
     "path---news-1570": [
       "path---news-1570-66d33d89321f9054971c.js",
@@ -212,6 +244,18 @@
       "path---news-1621-1bf88ccb2be1dadd51f7.js",
       "path---news-1621-1bf88ccb2be1dadd51f7.js.map"
     ],
+    "component---src-pages-races-dwarves-js": [
+      "component---src-pages-races-dwarves-js-d2f14a11ff82edd25115.js",
+      "component---src-pages-races-dwarves-js-d2f14a11ff82edd25115.js.map"
+    ],
+    "path---races-woodelves": [
+      "path---races-woodelves-a0e39f21c11f6a62c5ab.js",
+      "path---races-woodelves-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---races-olog-hais": [
+      "path---races-olog-hais-a0e39f21c11f6a62c5ab.js",
+      "path---races-olog-hais-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---news-1626": [
       "path---news-1626-1d8b92f9ef51df3169f3.js",
       "path---news-1626-1d8b92f9ef51df3169f3.js.map"
@@ -227,6 +271,10 @@
     "path---news-1635": [
       "path---news-1635-2e0940c09843eb038480.js",
       "path---news-1635-2e0940c09843eb038480.js.map"
+    ],
+    "path---races-orcs": [
+      "path---races-orcs-a0e39f21c11f6a62c5ab.js",
+      "path---races-orcs-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-logs-js": [
       "component---src-pages-logs-js-957a0fc0cfe9b8ddf50f.js",
@@ -255,6 +303,14 @@
     "path---news-1628": [
       "path---news-1628-8098f643871be9ef956b.js",
       "path---news-1628-8098f643871be9ef956b.js.map"
+    ],
+    "path---races-dwarves": [
+      "path---races-dwarves-a0e39f21c11f6a62c5ab.js",
+      "path---races-dwarves-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-races-orcs-js": [
+      "component---src-pages-races-orcs-js-a0451ff0ff5d8792cd01.js",
+      "component---src-pages-races-orcs-js-a0451ff0ff5d8792cd01.js.map"
     ],
     "path---news-1367": [
       "path---news-1367-5e3b0c472ddfedaff230.js",
@@ -320,6 +376,10 @@
       "path---news-1519-6623879343729804c62c.js",
       "path---news-1519-6623879343729804c62c.js.map"
     ],
+    "path---races-haradrims": [
+      "path---races-haradrims-a0e39f21c11f6a62c5ab.js",
+      "path---races-haradrims-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---news-1498": [
       "path---news-1498-8a8d19d24cec975e7df8.js",
       "path---news-1498-8a8d19d24cec975e7df8.js.map"
@@ -327,6 +387,10 @@
     "path---news-1591": [
       "path---news-1591-28078da8b4410abf1da7.js",
       "path---news-1591-28078da8b4410abf1da7.js.map"
+    ],
+    "path---races-humans": [
+      "path---races-humans-a0e39f21c11f6a62c5ab.js",
+      "path---races-humans-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---news-1502": [
       "path---news-1502-3870f6899fb1bbd9c2f0.js",
@@ -417,9 +481,9 @@
       "path---news-1441-c4d01a6212991a7dfad4.js.map"
     ],
     "app": [
-      "app-098f573ea197814d995e.js",
+      "app-f09bc6753ffc2dbecd7d.js",
       "build-js-styles.css",
-      "app-098f573ea197814d995e.js.map",
+      "app-f09bc6753ffc2dbecd7d.js.map",
       "build-js-styles.css.map"
     ],
     "path---news-1579": [
@@ -435,8 +499,8 @@
       "path---news-1633-054635540ca99c358024.js.map"
     ],
     "component---src-templates-new-post-js": [
-      "component---src-templates-new-post-js-b5c9856f9cc2a3a9eb07.js",
-      "component---src-templates-new-post-js-b5c9856f9cc2a3a9eb07.js.map"
+      "component---src-templates-new-post-js-da9fa2263d96ae9f21d6.js",
+      "component---src-templates-new-post-js-da9fa2263d96ae9f21d6.js.map"
     ],
     "path---news-1637": [
       "path---news-1637-3fbc7d2b297f030b1b01.js",
@@ -449,6 +513,10 @@
     "path---news-1453": [
       "path---news-1453-bf16dfb521897d05570c.js",
       "path---news-1453-bf16dfb521897d05570c.js.map"
+    ],
+    "component---src-pages-races-beornings-js": [
+      "component---src-pages-races-beornings-js-7fb475db1f93720a0ada.js",
+      "component---src-pages-races-beornings-js-7fb475db1f93720a0ada.js.map"
     ],
     "path---news-1458": [
       "path---news-1458-db060201d449da2e6cce.js",
@@ -501,6 +569,10 @@
     "component---src-pages-connect-js": [
       "component---src-pages-connect-js-4aaa1fd827f355563a27.js",
       "component---src-pages-connect-js-4aaa1fd827f355563a27.js.map"
+    ],
+    "component---src-pages-races-woodelves-js": [
+      "component---src-pages-races-woodelves-js-e89c48363c4436ab21d6.js",
+      "component---src-pages-races-woodelves-js-e89c48363c4436ab21d6.js.map"
     ],
     "path---logs": [
       "path---logs-a0e39f21c11f6a62c5ab.js",
