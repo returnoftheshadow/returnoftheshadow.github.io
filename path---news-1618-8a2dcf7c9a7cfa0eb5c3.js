@@ -1,0 +1,2 @@
+webpackJsonp([96516671630599],{620:function(e,n){e.exports={data:{markdownRemark:{html:"<blockquote>\n<p>Message 1618 : Mon Mar  5 (Faewen)     :: 5 min rule</p>\n</blockquote>\n<p>We are doing away with the 5 min PK rule. Meaning, you are now able to\nchange chars as soon as anger wears. No more confusion. Happy hunting!</p>",frontmatter:{title:"News 1618: 5 min rule",date:"October 09, 2017",author:null,desc:null}}},pathContext:{path:"/news/1618"}}}});
+//# sourceMappingURL=path---news-1618-8a2dcf7c9a7cfa0eb5c3.js.map

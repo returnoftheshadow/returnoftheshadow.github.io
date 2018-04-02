@@ -1,0 +1,2 @@
+webpackJsonp([0x96e0c5f1d45d],{537:function(e,t){e.exports={data:{markdownRemark:{html:"<p>We get asked quite often wheather there will be a pwipe. The answer is:\nThere will be NO pwipe. However, since we are in beta, there might be\nan object wipe, and might be other tweaks to the existing characters.</p>\n<p>Enjoy\nDim</p>",frontmatter:{title:"News 459",date:"September 15, 1999",author:"Dim",desc:"Questions about beta/pwipe"}}},pathContext:{path:"/logs/459"}}}});
+//# sourceMappingURL=path---logs-459-0154c08591f991efb29b.js.map

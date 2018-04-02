@@ -1,0 +1,2 @@
+webpackJsonp([0xf125fa0f2dea],{787:function(e,t){e.exports={data:{markdownRemark:{html:"<p>Ingolemo, roughly 10 years behind schedule, is now the Implementor.</p>",frontmatter:{title:"News 1620",date:"October 09, 2017",author:"Azriya",desc:"You feel more powerful!"}}},pathContext:{path:"/news/1620"}}}});
+//# sourceMappingURL=path---news-1620-d5782f952ec87bb50f6d.js.map

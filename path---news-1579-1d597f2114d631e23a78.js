@@ -1,0 +1,2 @@
+webpackJsonp([0xd3ce96d229a2],{762:function(e,t){e.exports={data:{markdownRemark:{html:"<p>Lord Gaard has been adjusted.  An old quest was removed and a\nsecond old quest reinstated.</p>\n<p>Webspinners will not open doors for players any longer.</p>\n<p>Effective next reboot.</p>\n<p>A</p>",frontmatter:{title:"News 1579",date:"October 09, 2017",author:"Azriya",desc:"More Tweaks"}}},pathContext:{path:"/news/1579"}}}});
+//# sourceMappingURL=path---news-1579-1d597f2114d631e23a78.js.map

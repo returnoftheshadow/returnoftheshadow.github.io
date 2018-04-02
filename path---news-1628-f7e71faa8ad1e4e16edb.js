@@ -1,0 +1,2 @@
+webpackJsonp([0x95e0dfe18fd7],{627:function(e,n){e.exports={data:{markdownRemark:{html:"<blockquote>\n<p>Message 1628 : Thu Aug 29 (Faewen)     :: news</p>\n</blockquote>\n<p>Some fun changes have happened to Gwalins swamp/maze area! Expect better\nxp, tons of mobs, and even a new tame!</p>",frontmatter:{title:"News 1628: news",date:"October 09, 2017",author:null,desc:null}}},pathContext:{path:"/news/1628"}}}});
+//# sourceMappingURL=path---news-1628-f7e71faa8ad1e4e16edb.js.map

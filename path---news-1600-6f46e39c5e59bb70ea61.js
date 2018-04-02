@@ -1,0 +1,2 @@
+webpackJsonp([43283884830249],{607:function(e,t){e.exports={data:{markdownRemark:{html:"<blockquote>\n<p>Message 1600 : Fri Feb  5 (Blent)      :: A squinting, elderly dwarf</p>\n</blockquote>\n<p>...has changed a bit. He will no longer require the same item he used to.\nIf there are any problems, please contact Azriya.</p>",frontmatter:{title:"News 1600: A squinting, elderly dwarf",date:"October 09, 2017",author:null,desc:null}}},pathContext:{path:"/news/1600"}}}});
+//# sourceMappingURL=path---news-1600-6f46e39c5e59bb70ea61.js.map

@@ -1,136 +1,148 @@
 {
   "assetsByChunkName": {
     "path---news-1598": [
-      "path---news-1598-625dd4a82cf9ab608450.js",
-      "path---news-1598-625dd4a82cf9ab608450.js.map"
+      "path---news-1598-b18dad4e8cb68f27e88f.js",
+      "path---news-1598-b18dad4e8cb68f27e88f.js.map"
     ],
     "path---news-1651": [
-      "path---news-1651-8e4009a6f799af86085b.js",
-      "path---news-1651-8e4009a6f799af86085b.js.map"
+      "path---news-1651-b6a5607963e449ae56d4.js",
+      "path---news-1651-b6a5607963e449ae56d4.js.map"
     ],
     "path---rcd": [
       "path---rcd-a0e39f21c11f6a62c5ab.js",
       "path---rcd-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---news-1554": [
-      "path---news-1554-6a0960d330149a5a4ff3.js",
-      "path---news-1554-6a0960d330149a5a4ff3.js.map"
+      "path---news-1554-2d2e63a0088f59d47a0f.js",
+      "path---news-1554-2d2e63a0088f59d47a0f.js.map"
     ],
     "path---news-1564": [
-      "path---news-1564-32642b9825420856d53b.js",
-      "path---news-1564-32642b9825420856d53b.js.map"
+      "path---news-1564-d7859842b0f260c6f64f.js",
+      "path---news-1564-d7859842b0f260c6f64f.js.map"
     ],
     "path---news-1527": [
-      "path---news-1527-2a9e0290ec497fce8260.js",
-      "path---news-1527-2a9e0290ec497fce8260.js.map"
+      "path---news-1527-1a732440e976d3d218ce.js",
+      "path---news-1527-1a732440e976d3d218ce.js.map"
     ],
     "component---src-pages-races-haradrims-js": [
-      "component---src-pages-races-haradrims-js-2d667525c5c0bda2d907.js",
-      "component---src-pages-races-haradrims-js-2d667525c5c0bda2d907.js.map"
+      "component---src-pages-races-haradrims-js-79800a32399d74a3077f.js",
+      "component---src-pages-races-haradrims-js-79800a32399d74a3077f.js.map"
     ],
     "path---races-uruk-hais": [
       "path---races-uruk-hais-a0e39f21c11f6a62c5ab.js",
       "path---races-uruk-hais-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---news-1545": [
+      "path---news-1545-edd07c56aa35e905dedf.js",
+      "path---news-1545-edd07c56aa35e905dedf.js.map"
+    ],
     "path---news-1471": [
-      "path---news-1471-8b931b13bb1051cb1070.js",
-      "path---news-1471-8b931b13bb1051cb1070.js.map"
+      "path---news-1471-2ea1694e145907aca4f0.js",
+      "path---news-1471-2ea1694e145907aca4f0.js.map"
     ],
     "path---news-1512": [
-      "path---news-1512-c06d27555591263b0568.js",
-      "path---news-1512-c06d27555591263b0568.js.map"
+      "path---news-1512-42eb41787a686e1dab77.js",
+      "path---news-1512-42eb41787a686e1dab77.js.map"
+    ],
+    "path---races": [
+      "path---races-a0e39f21c11f6a62c5ab.js",
+      "path---races-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-races-hobbits-js": [
-      "component---src-pages-races-hobbits-js-0c4ec72d11e20b746485.js",
-      "component---src-pages-races-hobbits-js-0c4ec72d11e20b746485.js.map"
+      "component---src-pages-races-hobbits-js-6ce9fdf32e40c973e540.js",
+      "component---src-pages-races-hobbits-js-6ce9fdf32e40c973e540.js.map"
     ],
     "path---news-1334": [
-      "path---news-1334-c6a868ffc437de6c531f.js",
-      "path---news-1334-c6a868ffc437de6c531f.js.map"
+      "path---news-1334-8673a6b30c3487f918b8.js",
+      "path---news-1334-8673a6b30c3487f918b8.js.map"
     ],
     "path---news-1663": [
-      "path---news-1663-100b6e96567ee55d88ef.js",
-      "path---news-1663-100b6e96567ee55d88ef.js.map"
+      "path---news-1663-3b29cbacf475b222b7f7.js",
+      "path---news-1663-3b29cbacf475b222b7f7.js.map"
     ],
     "component---src-pages-races-humans-js": [
-      "component---src-pages-races-humans-js-e56181f08a34148fd974.js",
-      "component---src-pages-races-humans-js-e56181f08a34148fd974.js.map"
+      "component---src-pages-races-humans-js-c02a93a557b5fd17e37d.js",
+      "component---src-pages-races-humans-js-c02a93a557b5fd17e37d.js.map"
     ],
     "path---news-1423": [
-      "path---news-1423-5b2f2494b9c5be3d9408.js",
-      "path---news-1423-5b2f2494b9c5be3d9408.js.map"
+      "path---news-1423-59b20eaa0c1c396005c9.js",
+      "path---news-1423-59b20eaa0c1c396005c9.js.map"
     ],
     "path---news-1578": [
-      "path---news-1578-6cbc79021120c7d70e07.js",
-      "path---news-1578-6cbc79021120c7d70e07.js.map"
+      "path---news-1578-df6c4e07f56105670424.js",
+      "path---news-1578-df6c4e07f56105670424.js.map"
     ],
     "path---news-1086": [
-      "path---news-1086-af16a6409d2c55475b85.js",
-      "path---news-1086-af16a6409d2c55475b85.js.map"
+      "path---news-1086-61b2ff3059a2ea6ade88.js",
+      "path---news-1086-61b2ff3059a2ea6ade88.js.map"
     ],
     "path---quests": [
       "path---quests-a0e39f21c11f6a62c5ab.js",
       "path---quests-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---news-1632": [
-      "path---news-1632-3b1b8e9d6f510ca01450.js",
-      "path---news-1632-3b1b8e9d6f510ca01450.js.map"
+      "path---news-1632-a4d042434be0a4f8506e.js",
+      "path---news-1632-a4d042434be0a4f8506e.js.map"
     ],
     "component---src-pages-races-uruk-lhuths-js": [
-      "component---src-pages-races-uruk-lhuths-js-9c7d9b3b9cce64879220.js",
-      "component---src-pages-races-uruk-lhuths-js-9c7d9b3b9cce64879220.js.map"
+      "component---src-pages-races-uruk-lhuths-js-04dba7f52db2225024b2.js",
+      "component---src-pages-races-uruk-lhuths-js-04dba7f52db2225024b2.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-705636bc548241136d10.js",
-      "component---src-pages-index-js-705636bc548241136d10.js.map"
+      "component---src-pages-index-js-9c973e340cba549f7dea.js",
+      "component---src-pages-index-js-9c973e340cba549f7dea.js.map"
     ],
     "path---news-1400": [
-      "path---news-1400-90baf026f95197e719cb.js",
-      "path---news-1400-90baf026f95197e719cb.js.map"
+      "path---news-1400-af839e41b9d5d41ffd0b.js",
+      "path---news-1400-af839e41b9d5d41ffd0b.js.map"
     ],
     "path---news-1664": [
-      "path---news-1664-09c503c7d6c07286a659.js",
-      "path---news-1664-09c503c7d6c07286a659.js.map"
+      "path---news-1664-166acf7097a6de8eaf2c.js",
+      "path---news-1664-166acf7097a6de8eaf2c.js.map"
     ],
     "component---src-pages-races-olog-hais-js": [
-      "component---src-pages-races-olog-hais-js-16b300f7ad78946161b9.js",
-      "component---src-pages-races-olog-hais-js-16b300f7ad78946161b9.js.map"
+      "component---src-pages-races-olog-hais-js-fc927b26a5b05dd81d80.js",
+      "component---src-pages-races-olog-hais-js-fc927b26a5b05dd81d80.js.map"
     ],
     "component---src-pages-rcd-js": [
       "component---src-pages-rcd-js-b44b5c120acaf9e036fb.js",
       "component---src-pages-rcd-js-b44b5c120acaf9e036fb.js.map"
     ],
     "path---news-1600": [
-      "path---news-1600-ebafe6657b2527073cde.js",
-      "path---news-1600-ebafe6657b2527073cde.js.map"
+      "path---news-1600-515782d3fe5867702389.js",
+      "path---news-1600-515782d3fe5867702389.js.map"
     ],
     "path---news-1636": [
-      "path---news-1636-b4fdd896ebe3c6f7a4ac.js",
-      "path---news-1636-b4fdd896ebe3c6f7a4ac.js.map"
+      "path---news-1636-96622016a7ffa0f212e1.js",
+      "path---news-1636-96622016a7ffa0f212e1.js.map"
     ],
     "path---news-1617": [
-      "path---news-1617-31ac96875949a788d0ec.js",
-      "path---news-1617-31ac96875949a788d0ec.js.map"
+      "path---news-1617-f45b37cbd6cdfa82443f.js",
+      "path---news-1617-f45b37cbd6cdfa82443f.js.map"
+    ],
+    "path---news-1553": [
+      "path---news-1553-0015e33811425da840e0.js",
+      "path---news-1553-0015e33811425da840e0.js.map"
     ],
     "path---news-1658": [
-      "path---news-1658-4cd0260de251d3059c1a.js",
-      "path---news-1658-4cd0260de251d3059c1a.js.map"
+      "path---news-1658-e6e88a4e4ba1643b454f.js",
+      "path---news-1658-e6e88a4e4ba1643b454f.js.map"
     ],
     "path---news-1565": [
-      "path---news-1565-4d92bac95abb3592d445.js",
-      "path---news-1565-4d92bac95abb3592d445.js.map"
+      "path---news-1565-74dad4e5f9a23efdf259.js",
+      "path---news-1565-74dad4e5f9a23efdf259.js.map"
     ],
     "path---news-1511": [
-      "path---news-1511-c5de89e34cc2532f09b8.js",
-      "path---news-1511-c5de89e34cc2532f09b8.js.map"
+      "path---news-1511-8588e621e6339fcb172f.js",
+      "path---news-1511-8588e621e6339fcb172f.js.map"
     ],
     "path---news-1460": [
-      "path---news-1460-659d4b9770a92cb2f3c8.js",
-      "path---news-1460-659d4b9770a92cb2f3c8.js.map"
+      "path---news-1460-fdec0cf6b3ffbe8282b7.js",
+      "path---news-1460-fdec0cf6b3ffbe8282b7.js.map"
     ],
     "path---news-1466": [
-      "path---news-1466-936e636803d619a898cc.js",
-      "path---news-1466-936e636803d619a898cc.js.map"
+      "path---news-1466-03bf6a2dd17b37634d76.js",
+      "path---news-1466-03bf6a2dd17b37634d76.js.map"
     ],
     "path---races-beornings": [
       "path---races-beornings-a0e39f21c11f6a62c5ab.js",
@@ -141,112 +153,120 @@
       "path----1dc8457d33b8653da714.js.map"
     ],
     "path---news-1523": [
-      "path---news-1523-4c638e865333b231a8af.js",
-      "path---news-1523-4c638e865333b231a8af.js.map"
+      "path---news-1523-c5305253f8c5c4d61c16.js",
+      "path---news-1523-c5305253f8c5c4d61c16.js.map"
     ],
     "path---news-1606": [
-      "path---news-1606-483d93763d00f9b8bc71.js",
-      "path---news-1606-483d93763d00f9b8bc71.js.map"
+      "path---news-1606-6a3a8b5fcf2fa9ae1d8a.js",
+      "path---news-1606-6a3a8b5fcf2fa9ae1d8a.js.map"
     ],
     "path---news-1649": [
-      "path---news-1649-6956ce3112c4ef112c3d.js",
-      "path---news-1649-6956ce3112c4ef112c3d.js.map"
+      "path---news-1649-b38f109dbb415aa60fe7.js",
+      "path---news-1649-b38f109dbb415aa60fe7.js.map"
     ],
     "component---src-pages-news-js": [
-      "component---src-pages-news-js-feb484b4c25fa6c11875.js",
-      "component---src-pages-news-js-feb484b4c25fa6c11875.js.map"
+      "component---src-pages-news-js-3c38a2f555e402c4d423.js",
+      "component---src-pages-news-js-3c38a2f555e402c4d423.js.map"
+    ],
+    "path---news-1666": [
+      "path---news-1666-18b822e20f4c8ffb913d.js",
+      "path---news-1666-18b822e20f4c8ffb913d.js.map"
     ],
     "path---news-1472": [
-      "path---news-1472-1c2e7932b0589d78f611.js",
-      "path---news-1472-1c2e7932b0589d78f611.js.map"
+      "path---news-1472-b5c6eeed4d1d8cd41719.js",
+      "path---news-1472-b5c6eeed4d1d8cd41719.js.map"
     ],
     "path---news-1251": [
-      "path---news-1251-826a2363ed16c5e20755.js",
-      "path---news-1251-826a2363ed16c5e20755.js.map"
+      "path---news-1251-9dd96eda2a80b70bd2d5.js",
+      "path---news-1251-9dd96eda2a80b70bd2d5.js.map"
     ],
     "path---news-1613": [
-      "path---news-1613-fdc2bb6f48b0b39ac9b9.js",
-      "path---news-1613-fdc2bb6f48b0b39ac9b9.js.map"
+      "path---news-1613-482f0e3902a5e50eda2a.js",
+      "path---news-1613-482f0e3902a5e50eda2a.js.map"
     ],
     "path---races-uruk-lhuths": [
       "path---races-uruk-lhuths-a0e39f21c11f6a62c5ab.js",
       "path---races-uruk-lhuths-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---news-1492": [
-      "path---news-1492-c99edee3ab9fef53508d.js",
-      "path---news-1492-c99edee3ab9fef53508d.js.map"
+      "path---news-1492-05acd785b445c5299d20.js",
+      "path---news-1492-05acd785b445c5299d20.js.map"
     ],
     "component---src-pages-races-uruk-hais-js": [
-      "component---src-pages-races-uruk-hais-js-ace74ee6d113b73548e5.js",
-      "component---src-pages-races-uruk-hais-js-ace74ee6d113b73548e5.js.map"
+      "component---src-pages-races-uruk-hais-js-f8afb13b243253b7cf8d.js",
+      "component---src-pages-races-uruk-hais-js-f8afb13b243253b7cf8d.js.map"
     ],
     "path---news-1570": [
-      "path---news-1570-66d33d89321f9054971c.js",
-      "path---news-1570-66d33d89321f9054971c.js.map"
+      "path---news-1570-5f9a2de617e2935ce1db.js",
+      "path---news-1570-5f9a2de617e2935ce1db.js.map"
     ],
     "path---news-1618": [
-      "path---news-1618-c374da5b51d01bab42f0.js",
-      "path---news-1618-c374da5b51d01bab42f0.js.map"
+      "path---news-1618-1a90b9531edb618163d1.js",
+      "path---news-1618-1a90b9531edb618163d1.js.map"
     ],
     "path---news-1552": [
-      "path---news-1552-a43b392e34e4e4cc4580.js",
-      "path---news-1552-a43b392e34e4e4cc4580.js.map"
+      "path---news-1552-9f0e60a6422d55e1a879.js",
+      "path---news-1552-9f0e60a6422d55e1a879.js.map"
     ],
     "path---news-1572": [
-      "path---news-1572-2450e32c8028448c6525.js",
-      "path---news-1572-2450e32c8028448c6525.js.map"
+      "path---news-1572-a77ef94960d3801d04cc.js",
+      "path---news-1572-a77ef94960d3801d04cc.js.map"
     ],
     "path---news-1582": [
-      "path---news-1582-101c3892e8d85b60889f.js",
-      "path---news-1582-101c3892e8d85b60889f.js.map"
+      "path---news-1582-8aaeb2310885f1ac9d9f.js",
+      "path---news-1582-8aaeb2310885f1ac9d9f.js.map"
     ],
     "path---news-1583": [
-      "path---news-1583-244c9a00a2673969a5fb.js",
-      "path---news-1583-244c9a00a2673969a5fb.js.map"
+      "path---news-1583-90480c86266fc9379f6d.js",
+      "path---news-1583-90480c86266fc9379f6d.js.map"
     ],
     "path---news-1615": [
-      "path---news-1615-c7b4af2aab3b97d757c7.js",
-      "path---news-1615-c7b4af2aab3b97d757c7.js.map"
+      "path---news-1615-f10aa74110b56955ec1e.js",
+      "path---news-1615-f10aa74110b56955ec1e.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-deabb65e0fdc889e344f.js",
-      "component---src-layouts-index-js-deabb65e0fdc889e344f.js.map"
+      "component---src-layouts-index-js-f7f12d8e7e94c3773c22.js",
+      "component---src-layouts-index-js-f7f12d8e7e94c3773c22.js.map"
     ],
     "path---news-1493": [
-      "path---news-1493-53ad28dd2563fd58bb5e.js",
-      "path---news-1493-53ad28dd2563fd58bb5e.js.map"
+      "path---news-1493-46862e23666b5d92391f.js",
+      "path---news-1493-46862e23666b5d92391f.js.map"
     ],
     "path---news-1592": [
-      "path---news-1592-9f73e0ff6b2ca46cb20a.js",
-      "path---news-1592-9f73e0ff6b2ca46cb20a.js.map"
+      "path---news-1592-c7056fdceab5d588af2f.js",
+      "path---news-1592-c7056fdceab5d588af2f.js.map"
     ],
     "path---news-1605": [
-      "path---news-1605-6820a915867944056b2c.js",
-      "path---news-1605-6820a915867944056b2c.js.map"
+      "path---news-1605-44daf48a9608b6946334.js",
+      "path---news-1605-44daf48a9608b6946334.js.map"
     ],
     "path---news-1655": [
-      "path---news-1655-5b3c5ed3ed50c68d7779.js",
-      "path---news-1655-5b3c5ed3ed50c68d7779.js.map"
+      "path---news-1655-6d71f4066a411e53ab4d.js",
+      "path---news-1655-6d71f4066a411e53ab4d.js.map"
     ],
     "path---news-1482": [
-      "path---news-1482-bb9b0a37826405c81eef.js",
-      "path---news-1482-bb9b0a37826405c81eef.js.map"
+      "path---news-1482-36d50a5f52c7d82d6054.js",
+      "path---news-1482-36d50a5f52c7d82d6054.js.map"
     ],
     "path---docs": [
       "path---docs-a0e39f21c11f6a62c5ab.js",
       "path---docs-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---news-1607": [
-      "path---news-1607-26e345ce46d971430f69.js",
-      "path---news-1607-26e345ce46d971430f69.js.map"
+      "path---news-1607-01f89b31d6c2b0db2552.js",
+      "path---news-1607-01f89b31d6c2b0db2552.js.map"
+    ],
+    "path---news-1667": [
+      "path---news-1667-57717b3cc9325ddf6276.js",
+      "path---news-1667-57717b3cc9325ddf6276.js.map"
     ],
     "path---news-1621": [
-      "path---news-1621-1bf88ccb2be1dadd51f7.js",
-      "path---news-1621-1bf88ccb2be1dadd51f7.js.map"
+      "path---news-1621-b12239d7ab2747dd9e47.js",
+      "path---news-1621-b12239d7ab2747dd9e47.js.map"
     ],
     "component---src-pages-races-dwarves-js": [
-      "component---src-pages-races-dwarves-js-d2f14a11ff82edd25115.js",
-      "component---src-pages-races-dwarves-js-d2f14a11ff82edd25115.js.map"
+      "component---src-pages-races-dwarves-js-7592946f8ba635ae2125.js",
+      "component---src-pages-races-dwarves-js-7592946f8ba635ae2125.js.map"
     ],
     "path---races-woodelves": [
       "path---races-woodelves-a0e39f21c11f6a62c5ab.js",
@@ -257,334 +277,360 @@
       "path---races-olog-hais-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---news-1626": [
-      "path---news-1626-1d8b92f9ef51df3169f3.js",
-      "path---news-1626-1d8b92f9ef51df3169f3.js.map"
+      "path---news-1626-159c54973c50ac8ea394.js",
+      "path---news-1626-159c54973c50ac8ea394.js.map"
     ],
     "path---index": [
-      "path---index-9e4268b8f25f5e4ea52f.js",
-      "path---index-9e4268b8f25f5e4ea52f.js.map"
+      "path---index-76a6af12e8fc1e461664.js",
+      "path---index-76a6af12e8fc1e461664.js.map"
     ],
     "path---news-1464": [
-      "path---news-1464-ead38309cb6f75e4f785.js",
-      "path---news-1464-ead38309cb6f75e4f785.js.map"
+      "path---news-1464-f9f8a67640397e008a31.js",
+      "path---news-1464-f9f8a67640397e008a31.js.map"
     ],
     "path---news-1635": [
-      "path---news-1635-2e0940c09843eb038480.js",
-      "path---news-1635-2e0940c09843eb038480.js.map"
+      "path---news-1635-e615248493ab0590c353.js",
+      "path---news-1635-e615248493ab0590c353.js.map"
     ],
     "path---races-orcs": [
       "path---races-orcs-a0e39f21c11f6a62c5ab.js",
       "path---races-orcs-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---news-1541": [
+      "path---news-1541-f5700029cc0b5120b655.js",
+      "path---news-1541-f5700029cc0b5120b655.js.map"
+    ],
     "component---src-pages-logs-js": [
-      "component---src-pages-logs-js-957a0fc0cfe9b8ddf50f.js",
-      "component---src-pages-logs-js-957a0fc0cfe9b8ddf50f.js.map"
+      "component---src-pages-logs-js-4a89c1333c2c2e0f5110.js",
+      "component---src-pages-logs-js-4a89c1333c2c2e0f5110.js.map"
     ],
     "path---news-1599": [
-      "path---news-1599-e650a72290f44da40a19.js",
-      "path---news-1599-e650a72290f44da40a19.js.map"
+      "path---news-1599-236e6cc04fd823873760.js",
+      "path---news-1599-236e6cc04fd823873760.js.map"
+    ],
+    "component---src-templates-log-post-js": [
+      "component---src-templates-log-post-js-7fc3668731033cebf07a.js",
+      "component---src-templates-log-post-js-7fc3668731033cebf07a.js.map"
     ],
     "path---news-1561": [
-      "path---news-1561-c6229270f20a40eb73b6.js",
-      "path---news-1561-c6229270f20a40eb73b6.js.map"
+      "path---news-1561-da04fb995a5a89498dd5.js",
+      "path---news-1561-da04fb995a5a89498dd5.js.map"
     ],
     "path---news-1660": [
-      "path---news-1660-bb246bebad8db5ec0ec2.js",
-      "path---news-1660-bb246bebad8db5ec0ec2.js.map"
+      "path---news-1660-0a1b716a7f06ebafff8f.js",
+      "path---news-1660-0a1b716a7f06ebafff8f.js.map"
     ],
     "path---news-1194": [
-      "path---news-1194-a633b0ba5f7e06b28a8a.js",
-      "path---news-1194-a633b0ba5f7e06b28a8a.js.map"
+      "path---news-1194-f5d85723970f56a93d42.js",
+      "path---news-1194-f5d85723970f56a93d42.js.map"
     ],
     "path---news-1616": [
-      "path---news-1616-487878aa7cae51dc575f.js",
-      "path---news-1616-487878aa7cae51dc575f.js.map"
+      "path---news-1616-f9db015f6c70e7eb25b2.js",
+      "path---news-1616-f9db015f6c70e7eb25b2.js.map"
     ],
     "path---news-1628": [
-      "path---news-1628-8098f643871be9ef956b.js",
-      "path---news-1628-8098f643871be9ef956b.js.map"
+      "path---news-1628-30f32d74b5130319c039.js",
+      "path---news-1628-30f32d74b5130319c039.js.map"
     ],
     "path---races-dwarves": [
       "path---races-dwarves-a0e39f21c11f6a62c5ab.js",
       "path---races-dwarves-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-races-orcs-js": [
-      "component---src-pages-races-orcs-js-a0451ff0ff5d8792cd01.js",
-      "component---src-pages-races-orcs-js-a0451ff0ff5d8792cd01.js.map"
+      "component---src-pages-races-orcs-js-14143d2f1f1d5ccb73df.js",
+      "component---src-pages-races-orcs-js-14143d2f1f1d5ccb73df.js.map"
     ],
     "path---news-1367": [
-      "path---news-1367-5e3b0c472ddfedaff230.js",
-      "path---news-1367-5e3b0c472ddfedaff230.js.map"
+      "path---news-1367-1001ea692e611a7482dd.js",
+      "path---news-1367-1001ea692e611a7482dd.js.map"
     ],
     "path---news-1629": [
-      "path---news-1629-963b77b823b8d53273aa.js",
-      "path---news-1629-963b77b823b8d53273aa.js.map"
+      "path---news-1629-d82b7374b035662c9145.js",
+      "path---news-1629-d82b7374b035662c9145.js.map"
     ],
     "path---news-1413": [
-      "path---news-1413-43406885dc483c7f3cc7.js",
-      "path---news-1413-43406885dc483c7f3cc7.js.map"
+      "path---news-1413-a65c920b278d12a3fb18.js",
+      "path---news-1413-a65c920b278d12a3fb18.js.map"
     ],
     "commons": [
       "commons-72775c4904b60cc43af5.js",
-      "commons-72775c4904b60cc43af5.js.map"
+      "build-js-styles.css",
+      "commons-72775c4904b60cc43af5.js.map",
+      "build-js-styles.css.map"
     ],
     "path---news-459": [
-      "path---news-459-76a03e5ee94aab06d71a.js",
-      "path---news-459-76a03e5ee94aab06d71a.js.map"
+      "path---news-459-51a8a3adbcaa13c16fb3.js",
+      "path---news-459-51a8a3adbcaa13c16fb3.js.map"
     ],
     "path---news-1623": [
-      "path---news-1623-68a4ed954342f2389c4b.js",
-      "path---news-1623-68a4ed954342f2389c4b.js.map"
+      "path---news-1623-6f33821f5aaaa109afee.js",
+      "path---news-1623-6f33821f5aaaa109afee.js.map"
     ],
     "path---news-1602": [
-      "path---news-1602-bb675d877216db92f446.js",
-      "path---news-1602-bb675d877216db92f446.js.map"
+      "path---news-1602-3a64a78c870d716f6f3a.js",
+      "path---news-1602-3a64a78c870d716f6f3a.js.map"
     ],
     "path---news-1518": [
-      "path---news-1518-9c5001f0bffa8b15f6a4.js",
-      "path---news-1518-9c5001f0bffa8b15f6a4.js.map"
+      "path---news-1518-6df621ad2316f0902a60.js",
+      "path---news-1518-6df621ad2316f0902a60.js.map"
     ],
     "path---connect": [
       "path---connect-a0e39f21c11f6a62c5ab.js",
       "path---connect-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---news-1597": [
-      "path---news-1597-9b4449bca7926115495c.js",
-      "path---news-1597-9b4449bca7926115495c.js.map"
+      "path---news-1597-355e9ed3dbd43141e673.js",
+      "path---news-1597-355e9ed3dbd43141e673.js.map"
     ],
     "path---news-1610": [
-      "path---news-1610-31209ed923b381b4368a.js",
-      "path---news-1610-31209ed923b381b4368a.js.map"
+      "path---news-1610-446477dea2edead6d213.js",
+      "path---news-1610-446477dea2edead6d213.js.map"
     ],
     "path---news-1323": [
-      "path---news-1323-e06b52a3cff31def959b.js",
-      "path---news-1323-e06b52a3cff31def959b.js.map"
+      "path---news-1323-8f0f6eba2850bb42c65a.js",
+      "path---news-1323-8f0f6eba2850bb42c65a.js.map"
     ],
     "path---news-1318": [
-      "path---news-1318-1e8b527d2a357f4208bf.js",
-      "path---news-1318-1e8b527d2a357f4208bf.js.map"
+      "path---news-1318-b532324c232ec464e9d8.js",
+      "path---news-1318-b532324c232ec464e9d8.js.map"
     ],
     "path---news-1555": [
-      "path---news-1555-97c950dbd8cd700b0d68.js",
-      "path---news-1555-97c950dbd8cd700b0d68.js.map"
+      "path---news-1555-d66b725e77de7c7921ca.js",
+      "path---news-1555-d66b725e77de7c7921ca.js.map"
     ],
     "path---news-1376": [
-      "path---news-1376-d20c9f30b08d3d8d599c.js",
-      "path---news-1376-d20c9f30b08d3d8d599c.js.map"
+      "path---news-1376-b92d43e7c06121aac1a2.js",
+      "path---news-1376-b92d43e7c06121aac1a2.js.map"
     ],
     "path---news-1519": [
-      "path---news-1519-6623879343729804c62c.js",
-      "path---news-1519-6623879343729804c62c.js.map"
+      "path---news-1519-1933173d961ebbfcd675.js",
+      "path---news-1519-1933173d961ebbfcd675.js.map"
     ],
     "path---races-haradrims": [
       "path---races-haradrims-a0e39f21c11f6a62c5ab.js",
       "path---races-haradrims-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---news-1498": [
-      "path---news-1498-8a8d19d24cec975e7df8.js",
-      "path---news-1498-8a8d19d24cec975e7df8.js.map"
+      "path---news-1498-28158ba1d992ece9d228.js",
+      "path---news-1498-28158ba1d992ece9d228.js.map"
     ],
     "path---news-1591": [
-      "path---news-1591-28078da8b4410abf1da7.js",
-      "path---news-1591-28078da8b4410abf1da7.js.map"
+      "path---news-1591-70e1034aec58d29ffc8b.js",
+      "path---news-1591-70e1034aec58d29ffc8b.js.map"
     ],
     "path---races-humans": [
       "path---races-humans-a0e39f21c11f6a62c5ab.js",
       "path---races-humans-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---news-1502": [
-      "path---news-1502-3870f6899fb1bbd9c2f0.js",
-      "path---news-1502-3870f6899fb1bbd9c2f0.js.map"
+      "path---news-1502-f82da300a4980a8e5550.js",
+      "path---news-1502-f82da300a4980a8e5550.js.map"
     ],
     "path---news-1634": [
-      "path---news-1634-c5d0d2313d0f1fb6625b.js",
-      "path---news-1634-c5d0d2313d0f1fb6625b.js.map"
+      "path---news-1634-43bef5d48378e819cff0.js",
+      "path---news-1634-43bef5d48378e819cff0.js.map"
     ],
     "path---news-1587": [
-      "path---news-1587-ac35639cae6bb027eb94.js",
-      "path---news-1587-ac35639cae6bb027eb94.js.map"
+      "path---news-1587-16840ffea85be28c6f17.js",
+      "path---news-1587-16840ffea85be28c6f17.js.map"
     ],
     "path---news-1528": [
-      "path---news-1528-dced34a6597dace186dd.js",
-      "path---news-1528-dced34a6597dace186dd.js.map"
+      "path---news-1528-71b7a47b9d9e84af1dfb.js",
+      "path---news-1528-71b7a47b9d9e84af1dfb.js.map"
     ],
     "path---news-1608": [
-      "path---news-1608-6929a44f3879cb4fb5c2.js",
-      "path---news-1608-6929a44f3879cb4fb5c2.js.map"
+      "path---news-1608-828bc7cf4625867c803c.js",
+      "path---news-1608-828bc7cf4625867c803c.js.map"
     ],
     "path---news-1603": [
-      "path---news-1603-a25539ad0038b2daa73e.js",
-      "path---news-1603-a25539ad0038b2daa73e.js.map"
+      "path---news-1603-a00d70dcd91b259fcf87.js",
+      "path---news-1603-a00d70dcd91b259fcf87.js.map"
     ],
     "path---news": [
-      "path---news-631884667dcc14682904.js",
-      "path---news-631884667dcc14682904.js.map"
+      "path---news-d239a4340566a99b35f2.js",
+      "path---news-d239a4340566a99b35f2.js.map"
+    ],
+    "path---logs-huge": [
+      "path---logs-huge-72a7677cdccc94d418c2.js",
+      "path---logs-huge-72a7677cdccc94d418c2.js.map"
     ],
     "path---news-1366": [
-      "path---news-1366-caa7a56371e96a849ab0.js",
-      "path---news-1366-caa7a56371e96a849ab0.js.map"
+      "path---news-1366-a5b01d1e5273b6b87818.js",
+      "path---news-1366-a5b01d1e5273b6b87818.js.map"
     ],
     "path---races-hobbits": [
       "path---races-hobbits-a0e39f21c11f6a62c5ab.js",
       "path---races-hobbits-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---news-1547": [
-      "path---news-1547-00d02715690bc0739a31.js",
-      "path---news-1547-00d02715690bc0739a31.js.map"
+      "path---news-1547-1ff3d5da5c140d6b8ce6.js",
+      "path---news-1547-1ff3d5da5c140d6b8ce6.js.map"
     ],
     "path---news-1517": [
-      "path---news-1517-e07670bb7fd17ea2b518.js",
-      "path---news-1517-e07670bb7fd17ea2b518.js.map"
+      "path---news-1517-002fa17c2098b357790b.js",
+      "path---news-1517-002fa17c2098b357790b.js.map"
     ],
     "path---news-1596": [
-      "path---news-1596-dce2575f48ea61e47e07.js",
-      "path---news-1596-dce2575f48ea61e47e07.js.map"
+      "path---news-1596-c5ecd7a0745ce760acfd.js",
+      "path---news-1596-c5ecd7a0745ce760acfd.js.map"
     ],
     "path---news-1440": [
-      "path---news-1440-e704f2734005c69580fc.js",
-      "path---news-1440-e704f2734005c69580fc.js.map"
+      "path---news-1440-da9a99841b5f31f7ef9e.js",
+      "path---news-1440-da9a99841b5f31f7ef9e.js.map"
     ],
     "path---news-1539": [
-      "path---news-1539-f8fac86467f929ff92d8.js",
-      "path---news-1539-f8fac86467f929ff92d8.js.map"
+      "path---news-1539-17b0b11f30c0db7b9c18.js",
+      "path---news-1539-17b0b11f30c0db7b9c18.js.map"
+    ],
+    "component---src-pages-races-js": [
+      "component---src-pages-races-js-1f7beab4f53e7d90b8f9.js",
+      "component---src-pages-races-js-1f7beab4f53e7d90b8f9.js.map"
     ],
     "path---news-1622": [
-      "path---news-1622-3d26bee683a801a70bff.js",
-      "path---news-1622-3d26bee683a801a70bff.js.map"
+      "path---news-1622-87bac86ffbec24fc1276.js",
+      "path---news-1622-87bac86ffbec24fc1276.js.map"
     ],
     "component---src-pages-docs-js": [
-      "component---src-pages-docs-js-49fc292adb290e63e23b.js",
-      "component---src-pages-docs-js-49fc292adb290e63e23b.js.map"
+      "component---src-pages-docs-js-42979273a3323111be35.js",
+      "component---src-pages-docs-js-42979273a3323111be35.js.map"
+    ],
+    "path---news-1665": [
+      "path---news-1665-3422aae12ba1ca67cbaf.js",
+      "path---news-1665-3422aae12ba1ca67cbaf.js.map"
     ],
     "path---news-1403": [
-      "path---news-1403-8fd5e45e8bec4101c8a8.js",
-      "path---news-1403-8fd5e45e8bec4101c8a8.js.map"
+      "path---news-1403-2791a5b514952c266fe7.js",
+      "path---news-1403-2791a5b514952c266fe7.js.map"
     ],
     "path---news-1357": [
-      "path---news-1357-4c8455457dfc1a83e8dc.js",
-      "path---news-1357-4c8455457dfc1a83e8dc.js.map"
+      "path---news-1357-4c792aff8d6c87c302c1.js",
+      "path---news-1357-4c792aff8d6c87c302c1.js.map"
     ],
     "path---news-1488": [
-      "path---news-1488-cb0975c73d3a6188b441.js",
-      "path---news-1488-cb0975c73d3a6188b441.js.map"
+      "path---news-1488-83544223452ed8f690a4.js",
+      "path---news-1488-83544223452ed8f690a4.js.map"
     ],
     "path---news-1451": [
-      "path---news-1451-e38e339b235dd426e21a.js",
-      "path---news-1451-e38e339b235dd426e21a.js.map"
+      "path---news-1451-b22f2e164e7b678f42bb.js",
+      "path---news-1451-b22f2e164e7b678f42bb.js.map"
     ],
     "path---news-1662": [
-      "path---news-1662-ef8e1c7fa674987cd934.js",
-      "path---news-1662-ef8e1c7fa674987cd934.js.map"
+      "path---news-1662-bf289707e0da6ccdc708.js",
+      "path---news-1662-bf289707e0da6ccdc708.js.map"
     ],
     "path---news-1441": [
-      "path---news-1441-c4d01a6212991a7dfad4.js",
-      "path---news-1441-c4d01a6212991a7dfad4.js.map"
+      "path---news-1441-8c3727ea35e358b7f71c.js",
+      "path---news-1441-8c3727ea35e358b7f71c.js.map"
     ],
     "app": [
-      "app-f09bc6753ffc2dbecd7d.js",
+      "app-eee5a3155f01d0995295.js",
       "build-js-styles.css",
-      "app-f09bc6753ffc2dbecd7d.js.map",
+      "app-eee5a3155f01d0995295.js.map",
       "build-js-styles.css.map"
     ],
+    "path---logs-ripscorch": [
+      "path---logs-ripscorch-2bb62dd4a862707a9d78.js",
+      "path---logs-ripscorch-2bb62dd4a862707a9d78.js.map"
+    ],
     "path---news-1579": [
-      "path---news-1579-82a15d746a2cff43a33d.js",
-      "path---news-1579-82a15d746a2cff43a33d.js.map"
+      "path---news-1579-1d597f2114d631e23a78.js",
+      "path---news-1579-1d597f2114d631e23a78.js.map"
     ],
     "path---news-1536": [
-      "path---news-1536-b136346c30efb58c46a2.js",
-      "path---news-1536-b136346c30efb58c46a2.js.map"
+      "path---news-1536-dc93b514657f80e72b25.js",
+      "path---news-1536-dc93b514657f80e72b25.js.map"
     ],
     "path---news-1633": [
-      "path---news-1633-054635540ca99c358024.js",
-      "path---news-1633-054635540ca99c358024.js.map"
+      "path---news-1633-2fb62fe3c4090c0d0e73.js",
+      "path---news-1633-2fb62fe3c4090c0d0e73.js.map"
     ],
     "component---src-templates-new-post-js": [
-      "component---src-templates-new-post-js-da9fa2263d96ae9f21d6.js",
-      "component---src-templates-new-post-js-da9fa2263d96ae9f21d6.js.map"
+      "component---src-templates-new-post-js-6a79139a0ad9ac6ce356.js",
+      "component---src-templates-new-post-js-6a79139a0ad9ac6ce356.js.map"
     ],
     "path---news-1637": [
-      "path---news-1637-3fbc7d2b297f030b1b01.js",
-      "path---news-1637-3fbc7d2b297f030b1b01.js.map"
+      "path---news-1637-1c8345024d268fcc8f17.js",
+      "path---news-1637-1c8345024d268fcc8f17.js.map"
     ],
     "path---news-1611": [
-      "path---news-1611-e0a65fe03a8b5288f77d.js",
-      "path---news-1611-e0a65fe03a8b5288f77d.js.map"
+      "path---news-1611-ff895000f39c23d6f92b.js",
+      "path---news-1611-ff895000f39c23d6f92b.js.map"
     ],
     "path---news-1453": [
-      "path---news-1453-bf16dfb521897d05570c.js",
-      "path---news-1453-bf16dfb521897d05570c.js.map"
+      "path---news-1453-63f72b961808d7c567f9.js",
+      "path---news-1453-63f72b961808d7c567f9.js.map"
     ],
     "component---src-pages-races-beornings-js": [
-      "component---src-pages-races-beornings-js-7fb475db1f93720a0ada.js",
-      "component---src-pages-races-beornings-js-7fb475db1f93720a0ada.js.map"
+      "component---src-pages-races-beornings-js-16b7729b66f90b78db89.js",
+      "component---src-pages-races-beornings-js-16b7729b66f90b78db89.js.map"
     ],
     "path---news-1458": [
-      "path---news-1458-db060201d449da2e6cce.js",
-      "path---news-1458-db060201d449da2e6cce.js.map"
+      "path---news-1458-159098579468e71f315c.js",
+      "path---news-1458-159098579468e71f315c.js.map"
     ],
     "path---news-1585": [
-      "path---news-1585-84d82ab69fb0dc1396cf.js",
-      "path---news-1585-84d82ab69fb0dc1396cf.js.map"
+      "path---news-1585-b2399395ff94f06f91ad.js",
+      "path---news-1585-b2399395ff94f06f91ad.js.map"
     ],
     "component---src-pages-quests-js": [
       "component---src-pages-quests-js-2f5a51690b0693b9c8c7.js",
       "component---src-pages-quests-js-2f5a51690b0693b9c8c7.js.map"
     ],
     "path---news-1574": [
-      "path---news-1574-d14ec89cef0a14803433.js",
-      "path---news-1574-d14ec89cef0a14803433.js.map"
+      "path---news-1574-78dfe1cf530a6b4e6f20.js",
+      "path---news-1574-78dfe1cf530a6b4e6f20.js.map"
     ],
     "path---news-1496": [
-      "path---news-1496-6a8940f4539942d8c9ce.js",
-      "path---news-1496-6a8940f4539942d8c9ce.js.map"
+      "path---news-1496-49d0f49955935bb29ce7.js",
+      "path---news-1496-49d0f49955935bb29ce7.js.map"
     ],
     "path---news-1274": [
-      "path---news-1274-2f78b4779db827ffcfe2.js",
-      "path---news-1274-2f78b4779db827ffcfe2.js.map"
+      "path---news-1274-c5933f09e89995433227.js",
+      "path---news-1274-c5933f09e89995433227.js.map"
     ],
     "component---src-pages-about-js": [
       "component---src-pages-about-js-4053a0ba3b42006b9e91.js",
       "component---src-pages-about-js-4053a0ba3b42006b9e91.js.map"
     ],
     "path---news-1620": [
-      "path---news-1620-faacd75b54f2c625888b.js",
-      "path---news-1620-faacd75b54f2c625888b.js.map"
+      "path---news-1620-d5782f952ec87bb50f6d.js",
+      "path---news-1620-d5782f952ec87bb50f6d.js.map"
     ],
     "path---news-1659": [
-      "path---news-1659-6938fb5c91ee29a5c57a.js",
-      "path---news-1659-6938fb5c91ee29a5c57a.js.map"
+      "path---news-1659-fdcdd1431a38f1006537.js",
+      "path---news-1659-fdcdd1431a38f1006537.js.map"
     ],
     "path---news-1415": [
-      "path---news-1415-6d48e1ee5b3d17047ce5.js",
-      "path---news-1415-6d48e1ee5b3d17047ce5.js.map"
+      "path---news-1415-013308d12cfefb151c9d.js",
+      "path---news-1415-013308d12cfefb151c9d.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
       "path---about-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---news-1627": [
-      "path---news-1627-4b09844d1b3c25fe143d.js",
-      "path---news-1627-4b09844d1b3c25fe143d.js.map"
+      "path---news-1627-47a05dcafae821cb2f59.js",
+      "path---news-1627-47a05dcafae821cb2f59.js.map"
     ],
     "component---src-pages-connect-js": [
       "component---src-pages-connect-js-4aaa1fd827f355563a27.js",
       "component---src-pages-connect-js-4aaa1fd827f355563a27.js.map"
     ],
     "component---src-pages-races-woodelves-js": [
-      "component---src-pages-races-woodelves-js-e89c48363c4436ab21d6.js",
-      "component---src-pages-races-woodelves-js-e89c48363c4436ab21d6.js.map"
+      "component---src-pages-races-woodelves-js-77fe78d137f381319176.js",
+      "component---src-pages-races-woodelves-js-77fe78d137f381319176.js.map"
     ],
     "path---logs": [
-      "path---logs-a0e39f21c11f6a62c5ab.js",
-      "path---logs-a0e39f21c11f6a62c5ab.js.map"
+      "path---logs-8de2de5b5c313742abc4.js",
+      "path---logs-8de2de5b5c313742abc4.js.map"
     ],
     "path---news-1661": [
-      "path---news-1661-70fc6791ba060202f4df.js",
-      "path---news-1661-70fc6791ba060202f4df.js.map"
+      "path---news-1661-cb9cce061066025790f8.js",
+      "path---news-1661-cb9cce061066025790f8.js.map"
     ],
     "path---news-1395": [
-      "path---news-1395-1c6ce8e20f9dcd63972e.js",
-      "path---news-1395-1c6ce8e20f9dcd63972e.js.map"
+      "path---news-1395-4da96bda5d8846a65f9a.js",
+      "path---news-1395-4da96bda5d8846a65f9a.js.map"
     ]
   }
 }

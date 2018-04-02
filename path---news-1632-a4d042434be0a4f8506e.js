@@ -1,0 +1,2 @@
+webpackJsonp([35258227695370],{795:function(e,t){e.exports={data:{markdownRemark:{html:"<p>(Hopefully) as of the next reboot, there will be new fall exits in\npart of the underground streambed zone. You have been warned..</p>\n<p>Blent</p>",frontmatter:{title:"News 1632",date:"October 09, 2017",author:"Blent",desc:"Minor Changes (Underground Streambed)"}}},pathContext:{path:"/news/1632"}}}});
+//# sourceMappingURL=path---news-1632-a4d042434be0a4f8506e.js.map

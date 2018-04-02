@@ -1,0 +1,2 @@
+webpackJsonp([0xf125fa0f2dea],{621:function(e,o){e.exports={data:{markdownRemark:{html:"<blockquote>\n<p>Message 1620 : Fri Mar 23 (Azriya)     :: You feel more powerful!</p>\n</blockquote>\n<p>Ingolemo, roughly 10 years behind schedule, is now the Implementor.</p>",frontmatter:{title:"News 1620: You feel more powerful!",date:"October 09, 2017",author:null,desc:null}}},pathContext:{path:"/news/1620"}}}});
+//# sourceMappingURL=path---news-1620-991036e48b8f1bdfe5b9.js.map
