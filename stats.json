@@ -52,6 +52,10 @@
       "component---src-pages-races-hobbits-js-6ce9fdf32e40c973e540.js",
       "component---src-pages-races-hobbits-js-6ce9fdf32e40c973e540.js.map"
     ],
+    "component---src-pages-getting-started-js": [
+      "component---src-pages-getting-started-js-631e5b407956d2a43bea.js",
+      "component---src-pages-getting-started-js-631e5b407956d2a43bea.js.map"
+    ],
     "path---news-1334": [
       "path---news-1334-8673a6b30c3487f918b8.js",
       "path---news-1334-8673a6b30c3487f918b8.js.map"
@@ -89,8 +93,8 @@
       "component---src-pages-races-uruk-lhuths-js-04dba7f52db2225024b2.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-9c973e340cba549f7dea.js",
-      "component---src-pages-index-js-9c973e340cba549f7dea.js.map"
+      "component---src-pages-index-js-fbff3199463ffc63da80.js",
+      "component---src-pages-index-js-fbff3199463ffc63da80.js.map"
     ],
     "path---news-1400": [
       "path---news-1400-af839e41b9d5d41ffd0b.js",
@@ -165,8 +169,8 @@
       "path---news-1649-b38f109dbb415aa60fe7.js.map"
     ],
     "component---src-pages-news-js": [
-      "component---src-pages-news-js-3c38a2f555e402c4d423.js",
-      "component---src-pages-news-js-3c38a2f555e402c4d423.js.map"
+      "component---src-pages-news-js-3f7da890c2f656a41777.js",
+      "component---src-pages-news-js-3f7da890c2f656a41777.js.map"
     ],
     "path---news-1666": [
       "path---news-1666-18b822e20f4c8ffb913d.js",
@@ -204,6 +208,10 @@
       "path---news-1618-1a90b9531edb618163d1.js",
       "path---news-1618-1a90b9531edb618163d1.js.map"
     ],
+    "component---src-pages-classes-js": [
+      "component---src-pages-classes-js-631e5b407956d2a43bea.js",
+      "component---src-pages-classes-js-631e5b407956d2a43bea.js.map"
+    ],
     "path---news-1552": [
       "path---news-1552-9f0e60a6422d55e1a879.js",
       "path---news-1552-9f0e60a6422d55e1a879.js.map"
@@ -225,8 +233,8 @@
       "path---news-1615-f10aa74110b56955ec1e.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-f7f12d8e7e94c3773c22.js",
-      "component---src-layouts-index-js-f7f12d8e7e94c3773c22.js.map"
+      "component---src-layouts-index-js-1338281055eadb0f9cf7.js",
+      "component---src-layouts-index-js-1338281055eadb0f9cf7.js.map"
     ],
     "path---news-1493": [
       "path---news-1493-46862e23666b5d92391f.js",
@@ -235,6 +243,10 @@
     "path---news-1592": [
       "path---news-1592-c7056fdceab5d588af2f.js",
       "path---news-1592-c7056fdceab5d588af2f.js.map"
+    ],
+    "path---getting-started": [
+      "path---getting-started-a0e39f21c11f6a62c5ab.js",
+      "path---getting-started-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---news-1605": [
       "path---news-1605-44daf48a9608b6946334.js",
@@ -301,8 +313,8 @@
       "path---news-1541-f5700029cc0b5120b655.js.map"
     ],
     "component---src-pages-logs-js": [
-      "component---src-pages-logs-js-4a89c1333c2c2e0f5110.js",
-      "component---src-pages-logs-js-4a89c1333c2c2e0f5110.js.map"
+      "component---src-pages-logs-js-cf8873512739f7b57515.js",
+      "component---src-pages-logs-js-cf8873512739f7b57515.js.map"
     ],
     "path---news-1599": [
       "path---news-1599-236e6cc04fd823873760.js",
@@ -328,6 +340,10 @@
       "path---news-1616-f9db015f6c70e7eb25b2.js",
       "path---news-1616-f9db015f6c70e7eb25b2.js.map"
     ],
+    "path---classes": [
+      "path---classes-a0e39f21c11f6a62c5ab.js",
+      "path---classes-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---news-1628": [
       "path---news-1628-30f32d74b5130319c039.js",
       "path---news-1628-30f32d74b5130319c039.js.map"
@@ -337,8 +353,8 @@
       "path---races-dwarves-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-races-orcs-js": [
-      "component---src-pages-races-orcs-js-14143d2f1f1d5ccb73df.js",
-      "component---src-pages-races-orcs-js-14143d2f1f1d5ccb73df.js.map"
+      "component---src-pages-races-orcs-js-81d3ef8aedb9c0a3807c.js",
+      "component---src-pages-races-orcs-js-81d3ef8aedb9c0a3807c.js.map"
     ],
     "path---news-1367": [
       "path---news-1367-1001ea692e611a7482dd.js",
@@ -353,9 +369,9 @@
       "path---news-1413-a65c920b278d12a3fb18.js.map"
     ],
     "commons": [
-      "commons-72775c4904b60cc43af5.js",
+      "commons-26a6ae88886ef5d0205f.js",
       "build-js-styles.css",
-      "commons-72775c4904b60cc43af5.js.map",
+      "commons-26a6ae88886ef5d0205f.js.map",
       "build-js-styles.css.map"
     ],
     "path---news-459": [
@@ -447,8 +463,8 @@
       "path---news-1603-a00d70dcd91b259fcf87.js.map"
     ],
     "path---news": [
-      "path---news-d239a4340566a99b35f2.js",
-      "path---news-d239a4340566a99b35f2.js.map"
+      "path---news-d5af86c2490112cfafcd.js",
+      "path---news-d5af86c2490112cfafcd.js.map"
     ],
     "path---logs-huge": [
       "path---logs-huge-72a7677cdccc94d418c2.js",
@@ -483,16 +499,16 @@
       "path---news-1539-17b0b11f30c0db7b9c18.js.map"
     ],
     "component---src-pages-races-js": [
-      "component---src-pages-races-js-1f7beab4f53e7d90b8f9.js",
-      "component---src-pages-races-js-1f7beab4f53e7d90b8f9.js.map"
+      "component---src-pages-races-js-b171966c94b7ebcce514.js",
+      "component---src-pages-races-js-b171966c94b7ebcce514.js.map"
     ],
     "path---news-1622": [
       "path---news-1622-87bac86ffbec24fc1276.js",
       "path---news-1622-87bac86ffbec24fc1276.js.map"
     ],
     "component---src-pages-docs-js": [
-      "component---src-pages-docs-js-42979273a3323111be35.js",
-      "component---src-pages-docs-js-42979273a3323111be35.js.map"
+      "component---src-pages-docs-js-f9b00c909580f224f0dd.js",
+      "component---src-pages-docs-js-f9b00c909580f224f0dd.js.map"
     ],
     "path---news-1665": [
       "path---news-1665-3422aae12ba1ca67cbaf.js",
@@ -523,9 +539,9 @@
       "path---news-1441-8c3727ea35e358b7f71c.js.map"
     ],
     "app": [
-      "app-eee5a3155f01d0995295.js",
+      "app-137967679af8673ff103.js",
       "build-js-styles.css",
-      "app-eee5a3155f01d0995295.js.map",
+      "app-137967679af8673ff103.js.map",
       "build-js-styles.css.map"
     ],
     "path---logs-ripscorch": [
@@ -545,8 +561,8 @@
       "path---news-1633-2fb62fe3c4090c0d0e73.js.map"
     ],
     "component---src-templates-new-post-js": [
-      "component---src-templates-new-post-js-6a79139a0ad9ac6ce356.js",
-      "component---src-templates-new-post-js-6a79139a0ad9ac6ce356.js.map"
+      "component---src-templates-new-post-js-ef4b175e95dc2563098c.js",
+      "component---src-templates-new-post-js-ef4b175e95dc2563098c.js.map"
     ],
     "path---news-1637": [
       "path---news-1637-1c8345024d268fcc8f17.js",
