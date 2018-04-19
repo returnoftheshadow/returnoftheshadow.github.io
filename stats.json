@@ -24,33 +24,37 @@
       "path---news-1527-1a732440e976d3d218ce.js",
       "path---news-1527-1a732440e976d3d218ce.js.map"
     ],
-    "component---src-pages-races-haradrims-js": [
-      "component---src-pages-races-haradrims-js-79800a32399d74a3077f.js",
-      "component---src-pages-races-haradrims-js-79800a32399d74a3077f.js.map"
-    ],
     "path---races-uruk-hais": [
-      "path---races-uruk-hais-a0e39f21c11f6a62c5ab.js",
-      "path---races-uruk-hais-a0e39f21c11f6a62c5ab.js.map"
+      "path---races-uruk-hais-16e0ad92356f31fc98bb.js",
+      "path---races-uruk-hais-16e0ad92356f31fc98bb.js.map"
+    ],
+    "path---races-tmp-dwarves": [
+      "path---races-tmp-dwarves-a0e39f21c11f6a62c5ab.js",
+      "path---races-tmp-dwarves-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---news-1545": [
       "path---news-1545-edd07c56aa35e905dedf.js",
       "path---news-1545-edd07c56aa35e905dedf.js.map"
     ],
+    "component---src-pages-races-tmp-hobbits-js": [
+      "component---src-pages-races-tmp-hobbits-js-6ce9fdf32e40c973e540.js",
+      "component---src-pages-races-tmp-hobbits-js-6ce9fdf32e40c973e540.js.map"
+    ],
     "path---news-1471": [
       "path---news-1471-2ea1694e145907aca4f0.js",
       "path---news-1471-2ea1694e145907aca4f0.js.map"
+    ],
+    "component---src-pages-races-tmp-dwarves-js": [
+      "component---src-pages-races-tmp-dwarves-js-7592946f8ba635ae2125.js",
+      "component---src-pages-races-tmp-dwarves-js-7592946f8ba635ae2125.js.map"
     ],
     "path---news-1512": [
       "path---news-1512-42eb41787a686e1dab77.js",
       "path---news-1512-42eb41787a686e1dab77.js.map"
     ],
     "path---races": [
-      "path---races-a0e39f21c11f6a62c5ab.js",
-      "path---races-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "component---src-pages-races-hobbits-js": [
-      "component---src-pages-races-hobbits-js-6ce9fdf32e40c973e540.js",
-      "component---src-pages-races-hobbits-js-6ce9fdf32e40c973e540.js.map"
+      "path---races-9e01dd81bf4090203611.js",
+      "path---races-9e01dd81bf4090203611.js.map"
     ],
     "component---src-pages-getting-started-js": [
       "component---src-pages-getting-started-js-631e5b407956d2a43bea.js",
@@ -64,10 +68,6 @@
       "path---news-1663-3b29cbacf475b222b7f7.js",
       "path---news-1663-3b29cbacf475b222b7f7.js.map"
     ],
-    "component---src-pages-races-humans-js": [
-      "component---src-pages-races-humans-js-c02a93a557b5fd17e37d.js",
-      "component---src-pages-races-humans-js-c02a93a557b5fd17e37d.js.map"
-    ],
     "path---news-1423": [
       "path---news-1423-59b20eaa0c1c396005c9.js",
       "path---news-1423-59b20eaa0c1c396005c9.js.map"
@@ -75,6 +75,10 @@
     "path---news-1578": [
       "path---news-1578-df6c4e07f56105670424.js",
       "path---news-1578-df6c4e07f56105670424.js.map"
+    ],
+    "component---src-pages-classes-warrior-js": [
+      "component---src-pages-classes-warrior-js-8971778a9cc0ad74eeea.js",
+      "component---src-pages-classes-warrior-js-8971778a9cc0ad74eeea.js.map"
     ],
     "path---news-1086": [
       "path---news-1086-61b2ff3059a2ea6ade88.js",
@@ -88,13 +92,9 @@
       "path---news-1632-a4d042434be0a4f8506e.js",
       "path---news-1632-a4d042434be0a4f8506e.js.map"
     ],
-    "component---src-pages-races-uruk-lhuths-js": [
-      "component---src-pages-races-uruk-lhuths-js-04dba7f52db2225024b2.js",
-      "component---src-pages-races-uruk-lhuths-js-04dba7f52db2225024b2.js.map"
-    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-fbff3199463ffc63da80.js",
-      "component---src-pages-index-js-fbff3199463ffc63da80.js.map"
+      "component---src-pages-index-js-aeab868645c4ea00541f.js",
+      "component---src-pages-index-js-aeab868645c4ea00541f.js.map"
     ],
     "path---news-1400": [
       "path---news-1400-af839e41b9d5d41ffd0b.js",
@@ -104,17 +104,25 @@
       "path---news-1664-166acf7097a6de8eaf2c.js",
       "path---news-1664-166acf7097a6de8eaf2c.js.map"
     ],
-    "component---src-pages-races-olog-hais-js": [
-      "component---src-pages-races-olog-hais-js-fc927b26a5b05dd81d80.js",
-      "component---src-pages-races-olog-hais-js-fc927b26a5b05dd81d80.js.map"
+    "path---docs-powers": [
+      "path---docs-powers-c6a3227e8331faaf6d92.js",
+      "path---docs-powers-c6a3227e8331faaf6d92.js.map"
     ],
     "component---src-pages-rcd-js": [
-      "component---src-pages-rcd-js-b44b5c120acaf9e036fb.js",
-      "component---src-pages-rcd-js-b44b5c120acaf9e036fb.js.map"
+      "component---src-pages-rcd-js-69a70f50bb63ee1ef590.js",
+      "component---src-pages-rcd-js-69a70f50bb63ee1ef590.js.map"
     ],
     "path---news-1600": [
       "path---news-1600-515782d3fe5867702389.js",
       "path---news-1600-515782d3fe5867702389.js.map"
+    ],
+    "component---src-pages-docs-powers-js": [
+      "component---src-pages-docs-powers-js-6ceac19075293ee1b390.js",
+      "component---src-pages-docs-powers-js-6ceac19075293ee1b390.js.map"
+    ],
+    "path---races-tmp-haradrims": [
+      "path---races-tmp-haradrims-a0e39f21c11f6a62c5ab.js",
+      "path---races-tmp-haradrims-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---news-1636": [
       "path---news-1636-96622016a7ffa0f212e1.js",
@@ -140,6 +148,10 @@
       "path---news-1511-8588e621e6339fcb172f.js",
       "path---news-1511-8588e621e6339fcb172f.js.map"
     ],
+    "path---classes-warrior": [
+      "path---classes-warrior-a0e39f21c11f6a62c5ab.js",
+      "path---classes-warrior-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---news-1460": [
       "path---news-1460-fdec0cf6b3ffbe8282b7.js",
       "path---news-1460-fdec0cf6b3ffbe8282b7.js.map"
@@ -148,9 +160,13 @@
       "path---news-1466-03bf6a2dd17b37634d76.js",
       "path---news-1466-03bf6a2dd17b37634d76.js.map"
     ],
+    "path---races-tmp-olog-hais": [
+      "path---races-tmp-olog-hais-a0e39f21c11f6a62c5ab.js",
+      "path---races-tmp-olog-hais-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---races-beornings": [
-      "path---races-beornings-a0e39f21c11f6a62c5ab.js",
-      "path---races-beornings-a0e39f21c11f6a62c5ab.js.map"
+      "path---races-beornings-f4b33a3b26b146119d9d.js",
+      "path---races-beornings-f4b33a3b26b146119d9d.js.map"
     ],
     "path---": [
       "path----1dc8457d33b8653da714.js",
@@ -159,6 +175,10 @@
     "path---news-1523": [
       "path---news-1523-c5305253f8c5c4d61c16.js",
       "path---news-1523-c5305253f8c5c4d61c16.js.map"
+    ],
+    "path---docs-spells": [
+      "path---docs-spells-a241aae7571a041d32d7.js",
+      "path---docs-spells-a241aae7571a041d32d7.js.map"
     ],
     "path---news-1606": [
       "path---news-1606-6a3a8b5fcf2fa9ae1d8a.js",
@@ -169,8 +189,8 @@
       "path---news-1649-b38f109dbb415aa60fe7.js.map"
     ],
     "component---src-pages-news-js": [
-      "component---src-pages-news-js-3f7da890c2f656a41777.js",
-      "component---src-pages-news-js-3f7da890c2f656a41777.js.map"
+      "component---src-pages-news-js-d7b5cf88edb69cb234bc.js",
+      "component---src-pages-news-js-d7b5cf88edb69cb234bc.js.map"
     ],
     "path---news-1666": [
       "path---news-1666-18b822e20f4c8ffb913d.js",
@@ -189,16 +209,12 @@
       "path---news-1613-482f0e3902a5e50eda2a.js.map"
     ],
     "path---races-uruk-lhuths": [
-      "path---races-uruk-lhuths-a0e39f21c11f6a62c5ab.js",
-      "path---races-uruk-lhuths-a0e39f21c11f6a62c5ab.js.map"
+      "path---races-uruk-lhuths-ca24279e58870d9a015f.js",
+      "path---races-uruk-lhuths-ca24279e58870d9a015f.js.map"
     ],
     "path---news-1492": [
       "path---news-1492-05acd785b445c5299d20.js",
       "path---news-1492-05acd785b445c5299d20.js.map"
-    ],
-    "component---src-pages-races-uruk-hais-js": [
-      "component---src-pages-races-uruk-hais-js-f8afb13b243253b7cf8d.js",
-      "component---src-pages-races-uruk-hais-js-f8afb13b243253b7cf8d.js.map"
     ],
     "path---news-1570": [
       "path---news-1570-5f9a2de617e2935ce1db.js",
@@ -248,6 +264,14 @@
       "path---getting-started-a0e39f21c11f6a62c5ab.js",
       "path---getting-started-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---races-tmp-hobbits": [
+      "path---races-tmp-hobbits-a0e39f21c11f6a62c5ab.js",
+      "path---races-tmp-hobbits-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---races-tmp-uruk-lhuths": [
+      "path---races-tmp-uruk-lhuths-a0e39f21c11f6a62c5ab.js",
+      "path---races-tmp-uruk-lhuths-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---news-1605": [
       "path---news-1605-44daf48a9608b6946334.js",
       "path---news-1605-44daf48a9608b6946334.js.map"
@@ -261,12 +285,16 @@
       "path---news-1482-36d50a5f52c7d82d6054.js.map"
     ],
     "path---docs": [
-      "path---docs-a0e39f21c11f6a62c5ab.js",
-      "path---docs-a0e39f21c11f6a62c5ab.js.map"
+      "path---docs-da70375819f5e366dac7.js",
+      "path---docs-da70375819f5e366dac7.js.map"
     ],
     "path---news-1607": [
       "path---news-1607-01f89b31d6c2b0db2552.js",
       "path---news-1607-01f89b31d6c2b0db2552.js.map"
+    ],
+    "path---races-tmp-beornings": [
+      "path---races-tmp-beornings-a0e39f21c11f6a62c5ab.js",
+      "path---races-tmp-beornings-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---news-1667": [
       "path---news-1667-57717b3cc9325ddf6276.js",
@@ -276,17 +304,13 @@
       "path---news-1621-b12239d7ab2747dd9e47.js",
       "path---news-1621-b12239d7ab2747dd9e47.js.map"
     ],
-    "component---src-pages-races-dwarves-js": [
-      "component---src-pages-races-dwarves-js-7592946f8ba635ae2125.js",
-      "component---src-pages-races-dwarves-js-7592946f8ba635ae2125.js.map"
-    ],
     "path---races-woodelves": [
-      "path---races-woodelves-a0e39f21c11f6a62c5ab.js",
-      "path---races-woodelves-a0e39f21c11f6a62c5ab.js.map"
+      "path---races-woodelves-73f205c842d8d58ef880.js",
+      "path---races-woodelves-73f205c842d8d58ef880.js.map"
     ],
     "path---races-olog-hais": [
-      "path---races-olog-hais-a0e39f21c11f6a62c5ab.js",
-      "path---races-olog-hais-a0e39f21c11f6a62c5ab.js.map"
+      "path---races-olog-hais-078aeb53cc0a3671a635.js",
+      "path---races-olog-hais-078aeb53cc0a3671a635.js.map"
     ],
     "path---news-1626": [
       "path---news-1626-159c54973c50ac8ea394.js",
@@ -305,8 +329,8 @@
       "path---news-1635-e615248493ab0590c353.js.map"
     ],
     "path---races-orcs": [
-      "path---races-orcs-a0e39f21c11f6a62c5ab.js",
-      "path---races-orcs-a0e39f21c11f6a62c5ab.js.map"
+      "path---races-orcs-40fd876dea94a16bb390.js",
+      "path---races-orcs-40fd876dea94a16bb390.js.map"
     ],
     "path---news-1541": [
       "path---news-1541-f5700029cc0b5120b655.js",
@@ -332,6 +356,10 @@
       "path---news-1660-0a1b716a7f06ebafff8f.js",
       "path---news-1660-0a1b716a7f06ebafff8f.js.map"
     ],
+    "component---src-pages-races-tmp-olog-hais-js": [
+      "component---src-pages-races-tmp-olog-hais-js-fc927b26a5b05dd81d80.js",
+      "component---src-pages-races-tmp-olog-hais-js-fc927b26a5b05dd81d80.js.map"
+    ],
     "path---news-1194": [
       "path---news-1194-f5d85723970f56a93d42.js",
       "path---news-1194-f5d85723970f56a93d42.js.map"
@@ -349,12 +377,8 @@
       "path---news-1628-30f32d74b5130319c039.js.map"
     ],
     "path---races-dwarves": [
-      "path---races-dwarves-a0e39f21c11f6a62c5ab.js",
-      "path---races-dwarves-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "component---src-pages-races-orcs-js": [
-      "component---src-pages-races-orcs-js-81d3ef8aedb9c0a3807c.js",
-      "component---src-pages-races-orcs-js-81d3ef8aedb9c0a3807c.js.map"
+      "path---races-dwarves-82dbea8b8e1a03d43a9c.js",
+      "path---races-dwarves-82dbea8b8e1a03d43a9c.js.map"
     ],
     "path---news-1367": [
       "path---news-1367-1001ea692e611a7482dd.js",
@@ -374,6 +398,10 @@
       "commons-26a6ae88886ef5d0205f.js.map",
       "build-js-styles.css.map"
     ],
+    "component---src-pages-races-tmp-uruk-hais-js": [
+      "component---src-pages-races-tmp-uruk-hais-js-f8afb13b243253b7cf8d.js",
+      "component---src-pages-races-tmp-uruk-hais-js-f8afb13b243253b7cf8d.js.map"
+    ],
     "path---news-459": [
       "path---news-459-51a8a3adbcaa13c16fb3.js",
       "path---news-459-51a8a3adbcaa13c16fb3.js.map"
@@ -389,6 +417,10 @@
     "path---news-1518": [
       "path---news-1518-6df621ad2316f0902a60.js",
       "path---news-1518-6df621ad2316f0902a60.js.map"
+    ],
+    "component---src-pages-races-tmp-orcs-js": [
+      "component---src-pages-races-tmp-orcs-js-81d3ef8aedb9c0a3807c.js",
+      "component---src-pages-races-tmp-orcs-js-81d3ef8aedb9c0a3807c.js.map"
     ],
     "path---connect": [
       "path---connect-a0e39f21c11f6a62c5ab.js",
@@ -423,8 +455,8 @@
       "path---news-1519-1933173d961ebbfcd675.js.map"
     ],
     "path---races-haradrims": [
-      "path---races-haradrims-a0e39f21c11f6a62c5ab.js",
-      "path---races-haradrims-a0e39f21c11f6a62c5ab.js.map"
+      "path---races-haradrims-eddc071dfe836826aa03.js",
+      "path---races-haradrims-eddc071dfe836826aa03.js.map"
     ],
     "path---news-1498": [
       "path---news-1498-28158ba1d992ece9d228.js",
@@ -435,8 +467,8 @@
       "path---news-1591-70e1034aec58d29ffc8b.js.map"
     ],
     "path---races-humans": [
-      "path---races-humans-a0e39f21c11f6a62c5ab.js",
-      "path---races-humans-a0e39f21c11f6a62c5ab.js.map"
+      "path---races-humans-bf86f1f11a2934fa660a.js",
+      "path---races-humans-bf86f1f11a2934fa660a.js.map"
     ],
     "path---news-1502": [
       "path---news-1502-f82da300a4980a8e5550.js",
@@ -454,6 +486,10 @@
       "path---news-1528-71b7a47b9d9e84af1dfb.js",
       "path---news-1528-71b7a47b9d9e84af1dfb.js.map"
     ],
+    "component---src-pages-docs-spells-js": [
+      "component---src-pages-docs-spells-js-8f925ae0bd6c14973e21.js",
+      "component---src-pages-docs-spells-js-8f925ae0bd6c14973e21.js.map"
+    ],
     "path---news-1608": [
       "path---news-1608-828bc7cf4625867c803c.js",
       "path---news-1608-828bc7cf4625867c803c.js.map"
@@ -463,8 +499,8 @@
       "path---news-1603-a00d70dcd91b259fcf87.js.map"
     ],
     "path---news": [
-      "path---news-d5af86c2490112cfafcd.js",
-      "path---news-d5af86c2490112cfafcd.js.map"
+      "path---news-d239a4340566a99b35f2.js",
+      "path---news-d239a4340566a99b35f2.js.map"
     ],
     "path---logs-huge": [
       "path---logs-huge-72a7677cdccc94d418c2.js",
@@ -475,8 +511,8 @@
       "path---news-1366-a5b01d1e5273b6b87818.js.map"
     ],
     "path---races-hobbits": [
-      "path---races-hobbits-a0e39f21c11f6a62c5ab.js",
-      "path---races-hobbits-a0e39f21c11f6a62c5ab.js.map"
+      "path---races-hobbits-4414faac440940bd543e.js",
+      "path---races-hobbits-4414faac440940bd543e.js.map"
     ],
     "path---news-1547": [
       "path---news-1547-1ff3d5da5c140d6b8ce6.js",
@@ -499,16 +535,20 @@
       "path---news-1539-17b0b11f30c0db7b9c18.js.map"
     ],
     "component---src-pages-races-js": [
-      "component---src-pages-races-js-b171966c94b7ebcce514.js",
-      "component---src-pages-races-js-b171966c94b7ebcce514.js.map"
+      "component---src-pages-races-js-ab260b2b9082dc5fc1b4.js",
+      "component---src-pages-races-js-ab260b2b9082dc5fc1b4.js.map"
     ],
     "path---news-1622": [
       "path---news-1622-87bac86ffbec24fc1276.js",
       "path---news-1622-87bac86ffbec24fc1276.js.map"
     ],
     "component---src-pages-docs-js": [
-      "component---src-pages-docs-js-f9b00c909580f224f0dd.js",
-      "component---src-pages-docs-js-f9b00c909580f224f0dd.js.map"
+      "component---src-pages-docs-js-f84ebf1fde0a9f431add.js",
+      "component---src-pages-docs-js-f84ebf1fde0a9f431add.js.map"
+    ],
+    "path---docs-skills": [
+      "path---docs-skills-65ce1b5e5e5fcba5e59c.js",
+      "path---docs-skills-65ce1b5e5e5fcba5e59c.js.map"
     ],
     "path---news-1665": [
       "path---news-1665-3422aae12ba1ca67cbaf.js",
@@ -522,9 +562,17 @@
       "path---news-1357-4c792aff8d6c87c302c1.js",
       "path---news-1357-4c792aff8d6c87c302c1.js.map"
     ],
+    "path---races-tmp-uruk-hais": [
+      "path---races-tmp-uruk-hais-a0e39f21c11f6a62c5ab.js",
+      "path---races-tmp-uruk-hais-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---news-1488": [
       "path---news-1488-83544223452ed8f690a4.js",
       "path---news-1488-83544223452ed8f690a4.js.map"
+    ],
+    "component---src-pages-races-tmp-haradrims-js": [
+      "component---src-pages-races-tmp-haradrims-js-79800a32399d74a3077f.js",
+      "component---src-pages-races-tmp-haradrims-js-79800a32399d74a3077f.js.map"
     ],
     "path---news-1451": [
       "path---news-1451-b22f2e164e7b678f42bb.js",
@@ -539,9 +587,9 @@
       "path---news-1441-8c3727ea35e358b7f71c.js.map"
     ],
     "app": [
-      "app-137967679af8673ff103.js",
+      "app-b53572c3ae3f756441f1.js",
       "build-js-styles.css",
-      "app-137967679af8673ff103.js.map",
+      "app-b53572c3ae3f756441f1.js.map",
       "build-js-styles.css.map"
     ],
     "path---logs-ripscorch": [
@@ -560,6 +608,10 @@
       "path---news-1633-2fb62fe3c4090c0d0e73.js",
       "path---news-1633-2fb62fe3c4090c0d0e73.js.map"
     ],
+    "component---src-pages-races-tmp-beornings-js": [
+      "component---src-pages-races-tmp-beornings-js-16b7729b66f90b78db89.js",
+      "component---src-pages-races-tmp-beornings-js-16b7729b66f90b78db89.js.map"
+    ],
     "component---src-templates-new-post-js": [
       "component---src-templates-new-post-js-ef4b175e95dc2563098c.js",
       "component---src-templates-new-post-js-ef4b175e95dc2563098c.js.map"
@@ -572,13 +624,13 @@
       "path---news-1611-ff895000f39c23d6f92b.js",
       "path---news-1611-ff895000f39c23d6f92b.js.map"
     ],
+    "path---races-tmp-humans": [
+      "path---races-tmp-humans-a0e39f21c11f6a62c5ab.js",
+      "path---races-tmp-humans-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---news-1453": [
       "path---news-1453-63f72b961808d7c567f9.js",
       "path---news-1453-63f72b961808d7c567f9.js.map"
-    ],
-    "component---src-pages-races-beornings-js": [
-      "component---src-pages-races-beornings-js-16b7729b66f90b78db89.js",
-      "component---src-pages-races-beornings-js-16b7729b66f90b78db89.js.map"
     ],
     "path---news-1458": [
       "path---news-1458-159098579468e71f315c.js",
@@ -595,6 +647,10 @@
     "path---news-1574": [
       "path---news-1574-78dfe1cf530a6b4e6f20.js",
       "path---news-1574-78dfe1cf530a6b4e6f20.js.map"
+    ],
+    "component---src-pages-docs-skills-js": [
+      "component---src-pages-docs-skills-js-17c045b8e562a3941942.js",
+      "component---src-pages-docs-skills-js-17c045b8e562a3941942.js.map"
     ],
     "path---news-1496": [
       "path---news-1496-49d0f49955935bb29ce7.js",
@@ -620,9 +676,33 @@
       "path---news-1415-013308d12cfefb151c9d.js",
       "path---news-1415-013308d12cfefb151c9d.js.map"
     ],
+    "component---src-pages-races-tmp-humans-js": [
+      "component---src-pages-races-tmp-humans-js-c02a93a557b5fd17e37d.js",
+      "component---src-pages-races-tmp-humans-js-c02a93a557b5fd17e37d.js.map"
+    ],
+    "path---races-tmp-woodelves": [
+      "path---races-tmp-woodelves-a0e39f21c11f6a62c5ab.js",
+      "path---races-tmp-woodelves-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
       "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---races-tmp-orcs": [
+      "path---races-tmp-orcs-a0e39f21c11f6a62c5ab.js",
+      "path---races-tmp-orcs-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-races-tmp-woodelves-js": [
+      "component---src-pages-races-tmp-woodelves-js-77fe78d137f381319176.js",
+      "component---src-pages-races-tmp-woodelves-js-77fe78d137f381319176.js.map"
+    ],
+    "component---src-templates-race-page-js": [
+      "component---src-templates-race-page-js-106fa2460a94c14b146c.js",
+      "component---src-templates-race-page-js-106fa2460a94c14b146c.js.map"
+    ],
+    "component---src-pages-races-tmp-uruk-lhuths-js": [
+      "component---src-pages-races-tmp-uruk-lhuths-js-04dba7f52db2225024b2.js",
+      "component---src-pages-races-tmp-uruk-lhuths-js-04dba7f52db2225024b2.js.map"
     ],
     "path---news-1627": [
       "path---news-1627-47a05dcafae821cb2f59.js",
@@ -631,10 +711,6 @@
     "component---src-pages-connect-js": [
       "component---src-pages-connect-js-4aaa1fd827f355563a27.js",
       "component---src-pages-connect-js-4aaa1fd827f355563a27.js.map"
-    ],
-    "component---src-pages-races-woodelves-js": [
-      "component---src-pages-races-woodelves-js-77fe78d137f381319176.js",
-      "component---src-pages-races-woodelves-js-77fe78d137f381319176.js.map"
     ],
     "path---logs": [
       "path---logs-8de2de5b5c313742abc4.js",
