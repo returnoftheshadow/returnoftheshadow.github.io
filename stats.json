@@ -4,9 +4,17 @@
       "path---news-1598-b18dad4e8cb68f27e88f.js",
       "path---news-1598-b18dad4e8cb68f27e88f.js.map"
     ],
+    "path---books-historyofdale": [
+      "path---books-historyofdale-9544dd4f3e6fe2d95b2b.js",
+      "path---books-historyofdale-9544dd4f3e6fe2d95b2b.js.map"
+    ],
     "path---news-1651": [
       "path---news-1651-b6a5607963e449ae56d4.js",
       "path---news-1651-b6a5607963e449ae56d4.js.map"
+    ],
+    "path---books-valleyofblackwillows": [
+      "path---books-valleyofblackwillows-32c326f838b2728b433d.js",
+      "path---books-valleyofblackwillows-32c326f838b2728b433d.js.map"
     ],
     "path---rcd": [
       "path---rcd-a0e39f21c11f6a62c5ab.js",
@@ -57,12 +65,16 @@
       "path---races-9e01dd81bf4090203611.js.map"
     ],
     "component---src-pages-getting-started-js": [
-      "component---src-pages-getting-started-js-631e5b407956d2a43bea.js",
-      "component---src-pages-getting-started-js-631e5b407956d2a43bea.js.map"
+      "component---src-pages-getting-started-js-d74b47a1c4153de60e40.js",
+      "component---src-pages-getting-started-js-d74b47a1c4153de60e40.js.map"
     ],
     "path---news-1334": [
       "path---news-1334-8673a6b30c3487f918b8.js",
       "path---news-1334-8673a6b30c3487f918b8.js.map"
+    ],
+    "path---books-mirkwoodandtheshadedwarpath": [
+      "path---books-mirkwoodandtheshadedwarpath-6c22bf7514fd0e32494a.js",
+      "path---books-mirkwoodandtheshadedwarpath-6c22bf7514fd0e32494a.js.map"
     ],
     "path---news-1663": [
       "path---news-1663-3b29cbacf475b222b7f7.js",
@@ -72,13 +84,17 @@
       "path---news-1423-59b20eaa0c1c396005c9.js",
       "path---news-1423-59b20eaa0c1c396005c9.js.map"
     ],
+    "component---src-pages-classes-mystic-js": [
+      "component---src-pages-classes-mystic-js-855813f824d57423677b.js",
+      "component---src-pages-classes-mystic-js-855813f824d57423677b.js.map"
+    ],
     "path---news-1578": [
       "path---news-1578-df6c4e07f56105670424.js",
       "path---news-1578-df6c4e07f56105670424.js.map"
     ],
     "component---src-pages-classes-warrior-js": [
-      "component---src-pages-classes-warrior-js-8971778a9cc0ad74eeea.js",
-      "component---src-pages-classes-warrior-js-8971778a9cc0ad74eeea.js.map"
+      "component---src-pages-classes-warrior-js-c4c4293a6ac7e505909f.js",
+      "component---src-pages-classes-warrior-js-c4c4293a6ac7e505909f.js.map"
     ],
     "path---news-1086": [
       "path---news-1086-61b2ff3059a2ea6ade88.js",
@@ -93,8 +109,12 @@
       "path---news-1632-a4d042434be0a4f8506e.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-aeab868645c4ea00541f.js",
-      "component---src-pages-index-js-aeab868645c4ea00541f.js.map"
+      "component---src-pages-index-js-f92ad86f479e282c59bb.js",
+      "component---src-pages-index-js-f92ad86f479e282c59bb.js.map"
+    ],
+    "path---classes-ranger": [
+      "path---classes-ranger-c8022fb3009f3bb40ecb.js",
+      "path---classes-ranger-c8022fb3009f3bb40ecb.js.map"
     ],
     "path---news-1400": [
       "path---news-1400-af839e41b9d5d41ffd0b.js",
@@ -108,6 +128,10 @@
       "path---docs-powers-c6a3227e8331faaf6d92.js",
       "path---docs-powers-c6a3227e8331faaf6d92.js.map"
     ],
+    "path---books-aspeculationonspirits": [
+      "path---books-aspeculationonspirits-92e1a9af0fdd395805f9.js",
+      "path---books-aspeculationonspirits-92e1a9af0fdd395805f9.js.map"
+    ],
     "component---src-pages-rcd-js": [
       "component---src-pages-rcd-js-69a70f50bb63ee1ef590.js",
       "component---src-pages-rcd-js-69a70f50bb63ee1ef590.js.map"
@@ -116,9 +140,13 @@
       "path---news-1600-515782d3fe5867702389.js",
       "path---news-1600-515782d3fe5867702389.js.map"
     ],
+    "component---src-pages-classes-mage-js": [
+      "component---src-pages-classes-mage-js-6a33d9d3954c1ee9ee01.js",
+      "component---src-pages-classes-mage-js-6a33d9d3954c1ee9ee01.js.map"
+    ],
     "component---src-pages-docs-powers-js": [
-      "component---src-pages-docs-powers-js-6ceac19075293ee1b390.js",
-      "component---src-pages-docs-powers-js-6ceac19075293ee1b390.js.map"
+      "component---src-pages-docs-powers-js-8fe3c9434b3e882d307d.js",
+      "component---src-pages-docs-powers-js-8fe3c9434b3e882d307d.js.map"
     ],
     "path---races-tmp-haradrims": [
       "path---races-tmp-haradrims-a0e39f21c11f6a62c5ab.js",
@@ -127,6 +155,10 @@
     "path---news-1636": [
       "path---news-1636-96622016a7ffa0f212e1.js",
       "path---news-1636-96622016a7ffa0f212e1.js.map"
+    ],
+    "path---books-acitizenwithoutacity": [
+      "path---books-acitizenwithoutacity-5ccdb7fa0613e239f873.js",
+      "path---books-acitizenwithoutacity-5ccdb7fa0613e239f873.js.map"
     ],
     "path---news-1617": [
       "path---news-1617-f45b37cbd6cdfa82443f.js",
@@ -148,9 +180,13 @@
       "path---news-1511-8588e621e6339fcb172f.js",
       "path---news-1511-8588e621e6339fcb172f.js.map"
     ],
+    "path---books-fellbeastofmorerlond": [
+      "path---books-fellbeastofmorerlond-6cbc02ee95e82831cf8d.js",
+      "path---books-fellbeastofmorerlond-6cbc02ee95e82831cf8d.js.map"
+    ],
     "path---classes-warrior": [
-      "path---classes-warrior-a0e39f21c11f6a62c5ab.js",
-      "path---classes-warrior-a0e39f21c11f6a62c5ab.js.map"
+      "path---classes-warrior-ec00ecd93bb3261528b7.js",
+      "path---classes-warrior-ec00ecd93bb3261528b7.js.map"
     ],
     "path---news-1460": [
       "path---news-1460-fdec0cf6b3ffbe8282b7.js",
@@ -184,6 +220,10 @@
       "path---news-1606-6a3a8b5fcf2fa9ae1d8a.js",
       "path---news-1606-6a3a8b5fcf2fa9ae1d8a.js.map"
     ],
+    "path---books-destructionofvinyanost": [
+      "path---books-destructionofvinyanost-a832c70391a7e991ab09.js",
+      "path---books-destructionofvinyanost-a832c70391a7e991ab09.js.map"
+    ],
     "path---news-1649": [
       "path---news-1649-b38f109dbb415aa60fe7.js",
       "path---news-1649-b38f109dbb415aa60fe7.js.map"
@@ -196,9 +236,29 @@
       "path---news-1666-18b822e20f4c8ffb913d.js",
       "path---news-1666-18b822e20f4c8ffb913d.js.map"
     ],
+    "path---books-historyofmaethelburg": [
+      "path---books-historyofmaethelburg-981e71c143e3f41ad3b2.js",
+      "path---books-historyofmaethelburg-981e71c143e3f41ad3b2.js.map"
+    ],
+    "path---books-fortressofangmacar": [
+      "path---books-fortressofangmacar-87df79167848cff2d7e7.js",
+      "path---books-fortressofangmacar-87df79167848cff2d7e7.js.map"
+    ],
     "path---news-1472": [
       "path---news-1472-b5c6eeed4d1d8cd41719.js",
       "path---news-1472-b5c6eeed4d1d8cd41719.js.map"
+    ],
+    "path---books-valleyofthestonegiants": [
+      "path---books-valleyofthestonegiants-aed67259baee5ea6db15.js",
+      "path---books-valleyofthestonegiants-aed67259baee5ea6db15.js.map"
+    ],
+    "path---books-wraithsandspiritworld": [
+      "path---books-wraithsandspiritworld-7e477dd9ce401020000f.js",
+      "path---books-wraithsandspiritworld-7e477dd9ce401020000f.js.map"
+    ],
+    "path---books-valleyofthegoldenbeech": [
+      "path---books-valleyofthegoldenbeech-69dc8b7fba5bbabd03ba.js",
+      "path---books-valleyofthegoldenbeech-69dc8b7fba5bbabd03ba.js.map"
     ],
     "path---news-1251": [
       "path---news-1251-9dd96eda2a80b70bd2d5.js",
@@ -224,17 +284,33 @@
       "path---news-1618-1a90b9531edb618163d1.js",
       "path---news-1618-1a90b9531edb618163d1.js.map"
     ],
+    "path---books-atlasofmirkwoodvi": [
+      "path---books-atlasofmirkwoodvi-29c4d8c1452843ac2b72.js",
+      "path---books-atlasofmirkwoodvi-29c4d8c1452843ac2b72.js.map"
+    ],
     "component---src-pages-classes-js": [
       "component---src-pages-classes-js-631e5b407956d2a43bea.js",
       "component---src-pages-classes-js-631e5b407956d2a43bea.js.map"
+    ],
+    "path---books-historyofvinyanost": [
+      "path---books-historyofvinyanost-12fd2a54e687fade2906.js",
+      "path---books-historyofvinyanost-12fd2a54e687fade2906.js.map"
     ],
     "path---news-1552": [
       "path---news-1552-9f0e60a6422d55e1a879.js",
       "path---news-1552-9f0e60a6422d55e1a879.js.map"
     ],
+    "component---src-pages-classes-ranger-js": [
+      "component---src-pages-classes-ranger-js-b84142be99fbe6e71da9.js",
+      "component---src-pages-classes-ranger-js-b84142be99fbe6e71da9.js.map"
+    ],
     "path---news-1572": [
       "path---news-1572-a77ef94960d3801d04cc.js",
       "path---news-1572-a77ef94960d3801d04cc.js.map"
+    ],
+    "path---books-storyofomarr": [
+      "path---books-storyofomarr-74f8cd9453451516f569.js",
+      "path---books-storyofomarr-74f8cd9453451516f569.js.map"
     ],
     "path---news-1582": [
       "path---news-1582-8aaeb2310885f1ac9d9f.js",
@@ -248,13 +324,21 @@
       "path---news-1615-f10aa74110b56955ec1e.js",
       "path---news-1615-f10aa74110b56955ec1e.js.map"
     ],
+    "path---news-1668": [
+      "path---news-1668-73f8c59bd8c5768f9fac.js",
+      "path---news-1668-73f8c59bd8c5768f9fac.js.map"
+    ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-1338281055eadb0f9cf7.js",
-      "component---src-layouts-index-js-1338281055eadb0f9cf7.js.map"
+      "component---src-layouts-index-js-a340f38903d99fd50089.js",
+      "component---src-layouts-index-js-a340f38903d99fd50089.js.map"
     ],
     "path---news-1493": [
       "path---news-1493-46862e23666b5d92391f.js",
       "path---news-1493-46862e23666b5d92391f.js.map"
+    ],
+    "component---src-templates-books-js": [
+      "component---src-templates-books-js-6a621c0c005273c52563.js",
+      "component---src-templates-books-js-6a621c0c005273c52563.js.map"
     ],
     "path---news-1592": [
       "path---news-1592-c7056fdceab5d588af2f.js",
@@ -275,6 +359,10 @@
     "path---news-1605": [
       "path---news-1605-44daf48a9608b6946334.js",
       "path---news-1605-44daf48a9608b6946334.js.map"
+    ],
+    "path---books-lakegalarand": [
+      "path---books-lakegalarand-a8fa98e973cd75dcd8e6.js",
+      "path---books-lakegalarand-a8fa98e973cd75dcd8e6.js.map"
     ],
     "path---news-1655": [
       "path---news-1655-6d71f4066a411e53ab4d.js",
@@ -300,6 +388,10 @@
       "path---news-1667-57717b3cc9325ddf6276.js",
       "path---news-1667-57717b3cc9325ddf6276.js.map"
     ],
+    "path---books-oldforestroadthrougheasternmirkwood": [
+      "path---books-oldforestroadthrougheasternmirkwood-2d6538fd747196f90850.js",
+      "path---books-oldforestroadthrougheasternmirkwood-2d6538fd747196f90850.js.map"
+    ],
     "path---news-1621": [
       "path---news-1621-b12239d7ab2747dd9e47.js",
       "path---news-1621-b12239d7ab2747dd9e47.js.map"
@@ -317,8 +409,8 @@
       "path---news-1626-159c54973c50ac8ea394.js.map"
     ],
     "path---index": [
-      "path---index-76a6af12e8fc1e461664.js",
-      "path---index-76a6af12e8fc1e461664.js.map"
+      "path---index-c1c2b76dde06aa68a7c4.js",
+      "path---index-c1c2b76dde06aa68a7c4.js.map"
     ],
     "path---news-1464": [
       "path---news-1464-f9f8a67640397e008a31.js",
@@ -337,16 +429,16 @@
       "path---news-1541-f5700029cc0b5120b655.js.map"
     ],
     "component---src-pages-logs-js": [
-      "component---src-pages-logs-js-cf8873512739f7b57515.js",
-      "component---src-pages-logs-js-cf8873512739f7b57515.js.map"
+      "component---src-pages-logs-js-6503766afe5e40637454.js",
+      "component---src-pages-logs-js-6503766afe5e40637454.js.map"
     ],
     "path---news-1599": [
       "path---news-1599-236e6cc04fd823873760.js",
       "path---news-1599-236e6cc04fd823873760.js.map"
     ],
     "component---src-templates-log-post-js": [
-      "component---src-templates-log-post-js-7fc3668731033cebf07a.js",
-      "component---src-templates-log-post-js-7fc3668731033cebf07a.js.map"
+      "component---src-templates-log-post-js-7e4a805dc3ff40b57003.js",
+      "component---src-templates-log-post-js-7e4a805dc3ff40b57003.js.map"
     ],
     "path---news-1561": [
       "path---news-1561-da04fb995a5a89498dd5.js",
@@ -360,6 +452,10 @@
       "component---src-pages-races-tmp-olog-hais-js-fc927b26a5b05dd81d80.js",
       "component---src-pages-races-tmp-olog-hais-js-fc927b26a5b05dd81d80.js.map"
     ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-a5b9b1608a9860bf613c.js",
+      "component---src-pages-404-js-a5b9b1608a9860bf613c.js.map"
+    ],
     "path---news-1194": [
       "path---news-1194-f5d85723970f56a93d42.js",
       "path---news-1194-f5d85723970f56a93d42.js.map"
@@ -372,6 +468,10 @@
       "path---classes-a0e39f21c11f6a62c5ab.js",
       "path---classes-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---books-witchtrialofmulas": [
+      "path---books-witchtrialofmulas-a303f050bfdee1171c04.js",
+      "path---books-witchtrialofmulas-a303f050bfdee1171c04.js.map"
+    ],
     "path---news-1628": [
       "path---news-1628-30f32d74b5130319c039.js",
       "path---news-1628-30f32d74b5130319c039.js.map"
@@ -379,6 +479,10 @@
     "path---races-dwarves": [
       "path---races-dwarves-82dbea8b8e1a03d43a9c.js",
       "path---races-dwarves-82dbea8b8e1a03d43a9c.js.map"
+    ],
+    "path---news-1670": [
+      "path---news-1670-9b344e12271c7208ee4f.js",
+      "path---news-1670-9b344e12271c7208ee4f.js.map"
     ],
     "path---news-1367": [
       "path---news-1367-1001ea692e611a7482dd.js",
@@ -393,9 +497,9 @@
       "path---news-1413-a65c920b278d12a3fb18.js.map"
     ],
     "commons": [
-      "commons-26a6ae88886ef5d0205f.js",
+      "commons-d4b694d219af697fd215.js",
       "build-js-styles.css",
-      "commons-26a6ae88886ef5d0205f.js.map",
+      "commons-d4b694d219af697fd215.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-races-tmp-uruk-hais-js": [
@@ -426,6 +530,18 @@
       "path---connect-a0e39f21c11f6a62c5ab.js",
       "path---connect-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---books-bagginsesofrhovanion": [
+      "path---books-bagginsesofrhovanion-ba4cbf68038486a87783.js",
+      "path---books-bagginsesofrhovanion-ba4cbf68038486a87783.js.map"
+    ],
+    "path---bookofarda": [
+      "path---bookofarda-e4df30ba174490bdb97b.js",
+      "path---bookofarda-e4df30ba174490bdb97b.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---news-1597": [
       "path---news-1597-355e9ed3dbd43141e673.js",
       "path---news-1597-355e9ed3dbd43141e673.js.map"
@@ -441,6 +557,10 @@
     "path---news-1318": [
       "path---news-1318-b532324c232ec464e9d8.js",
       "path---news-1318-b532324c232ec464e9d8.js.map"
+    ],
+    "path---classes-mage": [
+      "path---classes-mage-a241aae7571a041d32d7.js",
+      "path---classes-mage-a241aae7571a041d32d7.js.map"
     ],
     "path---news-1555": [
       "path---news-1555-d66b725e77de7c7921ca.js",
@@ -461,6 +581,10 @@
     "path---news-1498": [
       "path---news-1498-28158ba1d992ece9d228.js",
       "path---news-1498-28158ba1d992ece9d228.js.map"
+    ],
+    "path---books-farmersofthelaketownplains": [
+      "path---books-farmersofthelaketownplains-45204d17616f06fc1814.js",
+      "path---books-farmersofthelaketownplains-45204d17616f06fc1814.js.map"
     ],
     "path---news-1591": [
       "path---news-1591-70e1034aec58d29ffc8b.js",
@@ -486,9 +610,13 @@
       "path---news-1528-71b7a47b9d9e84af1dfb.js",
       "path---news-1528-71b7a47b9d9e84af1dfb.js.map"
     ],
+    "path---books-minesofmirkwood": [
+      "path---books-minesofmirkwood-0c26c825a8f56f58222b.js",
+      "path---books-minesofmirkwood-0c26c825a8f56f58222b.js.map"
+    ],
     "component---src-pages-docs-spells-js": [
-      "component---src-pages-docs-spells-js-8f925ae0bd6c14973e21.js",
-      "component---src-pages-docs-spells-js-8f925ae0bd6c14973e21.js.map"
+      "component---src-pages-docs-spells-js-77fb4d4361bfb4243e61.js",
+      "component---src-pages-docs-spells-js-77fb4d4361bfb4243e61.js.map"
     ],
     "path---news-1608": [
       "path---news-1608-828bc7cf4625867c803c.js",
@@ -499,8 +627,8 @@
       "path---news-1603-a00d70dcd91b259fcf87.js.map"
     ],
     "path---news": [
-      "path---news-d239a4340566a99b35f2.js",
-      "path---news-d239a4340566a99b35f2.js.map"
+      "path---news-dd4bd0027b882764ff97.js",
+      "path---news-dd4bd0027b882764ff97.js.map"
     ],
     "path---logs-huge": [
       "path---logs-huge-72a7677cdccc94d418c2.js",
@@ -526,6 +654,10 @@
       "path---news-1596-c5ecd7a0745ce760acfd.js",
       "path---news-1596-c5ecd7a0745ce760acfd.js.map"
     ],
+    "component---src-pages-bookofarda-js": [
+      "component---src-pages-bookofarda-js-03b8694c6df5bef15b5b.js",
+      "component---src-pages-bookofarda-js-03b8694c6df5bef15b5b.js.map"
+    ],
     "path---news-1440": [
       "path---news-1440-da9a99841b5f31f7ef9e.js",
       "path---news-1440-da9a99841b5f31f7ef9e.js.map"
@@ -538,17 +670,21 @@
       "component---src-pages-races-js-ab260b2b9082dc5fc1b4.js",
       "component---src-pages-races-js-ab260b2b9082dc5fc1b4.js.map"
     ],
+    "path---books-grizshask": [
+      "path---books-grizshask-d096fe05708c0c6e48b8.js",
+      "path---books-grizshask-d096fe05708c0c6e48b8.js.map"
+    ],
     "path---news-1622": [
       "path---news-1622-87bac86ffbec24fc1276.js",
       "path---news-1622-87bac86ffbec24fc1276.js.map"
     ],
     "component---src-pages-docs-js": [
-      "component---src-pages-docs-js-f84ebf1fde0a9f431add.js",
-      "component---src-pages-docs-js-f84ebf1fde0a9f431add.js.map"
+      "component---src-pages-docs-js-9e33b8e2a84f5a1255a5.js",
+      "component---src-pages-docs-js-9e33b8e2a84f5a1255a5.js.map"
     ],
     "path---docs-skills": [
-      "path---docs-skills-65ce1b5e5e5fcba5e59c.js",
-      "path---docs-skills-65ce1b5e5e5fcba5e59c.js.map"
+      "path---docs-skills-ad19e9d211181fb5ae4b.js",
+      "path---docs-skills-ad19e9d211181fb5ae4b.js.map"
     ],
     "path---news-1665": [
       "path---news-1665-3422aae12ba1ca67cbaf.js",
@@ -587,9 +723,9 @@
       "path---news-1441-8c3727ea35e358b7f71c.js.map"
     ],
     "app": [
-      "app-b53572c3ae3f756441f1.js",
+      "app-83403ef6d9030ab2475a.js",
       "build-js-styles.css",
-      "app-b53572c3ae3f756441f1.js.map",
+      "app-83403ef6d9030ab2475a.js.map",
       "build-js-styles.css.map"
     ],
     "path---logs-ripscorch": [
@@ -624,6 +760,14 @@
       "path---news-1611-ff895000f39c23d6f92b.js",
       "path---news-1611-ff895000f39c23d6f92b.js.map"
     ],
+    "path---books-atlasofmirkwoodvii": [
+      "path---books-atlasofmirkwoodvii-34dde50c1cb42954ce94.js",
+      "path---books-atlasofmirkwoodvii-34dde50c1cb42954ce94.js.map"
+    ],
+    "path---books-legendoflakeguldulin": [
+      "path---books-legendoflakeguldulin-b8da9a8b042de09224d4.js",
+      "path---books-legendoflakeguldulin-b8da9a8b042de09224d4.js.map"
+    ],
     "path---races-tmp-humans": [
       "path---races-tmp-humans-a0e39f21c11f6a62c5ab.js",
       "path---races-tmp-humans-a0e39f21c11f6a62c5ab.js.map"
@@ -631,6 +775,10 @@
     "path---news-1453": [
       "path---news-1453-63f72b961808d7c567f9.js",
       "path---news-1453-63f72b961808d7c567f9.js.map"
+    ],
+    "path---books-redwoodsofsouthmirkwood": [
+      "path---books-redwoodsofsouthmirkwood-be5d1ee8b097be80da8b.js",
+      "path---books-redwoodsofsouthmirkwood-be5d1ee8b097be80da8b.js.map"
     ],
     "path---news-1458": [
       "path---news-1458-159098579468e71f315c.js",
@@ -640,6 +788,10 @@
       "path---news-1585-b2399395ff94f06f91ad.js",
       "path---news-1585-b2399395ff94f06f91ad.js.map"
     ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "component---src-pages-quests-js": [
       "component---src-pages-quests-js-2f5a51690b0693b9c8c7.js",
       "component---src-pages-quests-js-2f5a51690b0693b9c8c7.js.map"
@@ -648,9 +800,17 @@
       "path---news-1574-78dfe1cf530a6b4e6f20.js",
       "path---news-1574-78dfe1cf530a6b4e6f20.js.map"
     ],
+    "path---news-1669": [
+      "path---news-1669-9241e514396b50d7dff8.js",
+      "path---news-1669-9241e514396b50d7dff8.js.map"
+    ],
+    "path---books-gianttermitesofsmirkwood": [
+      "path---books-gianttermitesofsmirkwood-b47527bf422223cf3112.js",
+      "path---books-gianttermitesofsmirkwood-b47527bf422223cf3112.js.map"
+    ],
     "component---src-pages-docs-skills-js": [
-      "component---src-pages-docs-skills-js-17c045b8e562a3941942.js",
-      "component---src-pages-docs-skills-js-17c045b8e562a3941942.js.map"
+      "component---src-pages-docs-skills-js-0c0c69f4d0af1d2652d5.js",
+      "component---src-pages-docs-skills-js-0c0c69f4d0af1d2652d5.js.map"
     ],
     "path---news-1496": [
       "path---news-1496-49d0f49955935bb29ce7.js",
@@ -679,6 +839,10 @@
     "component---src-pages-races-tmp-humans-js": [
       "component---src-pages-races-tmp-humans-js-c02a93a557b5fd17e37d.js",
       "component---src-pages-races-tmp-humans-js-c02a93a557b5fd17e37d.js.map"
+    ],
+    "path---books-clothindustryofdale": [
+      "path---books-clothindustryofdale-d21d42f1f6465e2e15b0.js",
+      "path---books-clothindustryofdale-d21d42f1f6465e2e15b0.js.map"
     ],
     "path---races-tmp-woodelves": [
       "path---races-tmp-woodelves-a0e39f21c11f6a62c5ab.js",
@@ -709,8 +873,12 @@
       "path---news-1627-47a05dcafae821cb2f59.js.map"
     ],
     "component---src-pages-connect-js": [
-      "component---src-pages-connect-js-4aaa1fd827f355563a27.js",
-      "component---src-pages-connect-js-4aaa1fd827f355563a27.js.map"
+      "component---src-pages-connect-js-240a9ddd04e11decbd8d.js",
+      "component---src-pages-connect-js-240a9ddd04e11decbd8d.js.map"
+    ],
+    "path---classes-mystic": [
+      "path---classes-mystic-c6a3227e8331faaf6d92.js",
+      "path---classes-mystic-c6a3227e8331faaf6d92.js.map"
     ],
     "path---logs": [
       "path---logs-8de2de5b5c313742abc4.js",
